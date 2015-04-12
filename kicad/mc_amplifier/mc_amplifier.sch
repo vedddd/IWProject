@@ -1,13 +1,13 @@
 EESchema Schematic File Version 2
-LIBS:LFtransistor
-LIBS:LFtransformator
-LIBS:LFresistor
-LIBS:LFpower
-LIBS:LFdiod
-LIBS:LFconnectors
-LIBS:LFcomponents
-LIBS:LFcapitors
 LIBS:LFbutton
+LIBS:LFcapitors
+LIBS:LFcomponents
+LIBS:LFconnectors
+LIBS:LFdiod
+LIBS:LFpower
+LIBS:LFresistor
+LIBS:LFtransformator
+LIBS:LFtransistor
 LIBS:mc_amplifier-cache
 EELAYER 27 0
 EELAYER END

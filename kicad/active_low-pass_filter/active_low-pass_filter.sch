@@ -1,11 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:LFcapitors
-LIBS:LFcomponents
-LIBS:LFconnectors
-LIBS:LFdiod
-LIBS:LFresistor
-LIBS:LFtransformator
-LIBS:LFbutton
 LIBS:active_low-pass_filter-cache
 EELAYER 27 0
 EELAYER END

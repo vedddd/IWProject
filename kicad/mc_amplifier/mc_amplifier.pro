@@ -1,4 +1,4 @@
-update=Mon 11 Aug 2014 12:36:28 MSK
+update=Sun 12 Apr 2015 17:34:06 MSK
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -9,6 +9,7 @@ EquName1=devcms
 [general]
 version=1
 [eeschema]
+[eeschema]
 version=1
 LibDir=
 NetFmtName=
@@ -17,15 +18,15 @@ RptD_Y=100
 RptLab=1
 LabSize=60
 [eeschema/libraries]
-LibName1=../../SafeDuino/trunk/kicad/library_kicad/LFtransistor
-LibName2=../../SafeDuino/trunk/kicad/library_kicad/LFtransformator
-LibName3=../../SafeDuino/trunk/kicad/library_kicad/LFresistor
-LibName4=../../SafeDuino/trunk/kicad/library_kicad/LFpower
-LibName5=../../SafeDuino/trunk/kicad/library_kicad/LFdiod
-LibName6=../../SafeDuino/trunk/kicad/library_kicad/LFconnectors
-LibName7=../../SafeDuino/trunk/kicad/library_kicad/LFcomponents
-LibName8=../../SafeDuino/trunk/kicad/library_kicad/LFcapitors
-LibName9=../../SafeDuino/trunk/kicad/library_kicad/LFbutton
+LibName1=../../../kicad-components/library_kicad/LFbutton
+LibName2=../../../kicad-components/library_kicad/LFcapitors
+LibName3=../../../kicad-components/library_kicad/LFcomponents
+LibName4=../../../kicad-components/library_kicad/LFconnectors
+LibName5=../../../kicad-components/library_kicad/LFdiod
+LibName6=../../../kicad-components/library_kicad/LFpower
+LibName7=../../../kicad-components/library_kicad/LFresistor
+LibName8=../../../kicad-components/library_kicad/LFtransformator
+LibName9=../../../kicad-components/library_kicad/LFtransistor
 [pcbnew]
 version=1
 LastNetListRead=
@@ -47,7 +48,7 @@ BoardOutlineThickness="    0,150000"
 ModuleOutlineThickness="    0,150000"
 [pcbnew/libraries]
 LibDir=
-LibName1=../../SafeDuino/trunk/kicad/mod_kicad/LFtransformator
-LibName2=../../SafeDuino/trunk/kicad/mod_kicad/LFsmd_case
-LibName3=../../SafeDuino/trunk/kicad/mod_kicad/LFconnectors
-LibName4=../../SafeDuino/trunk/kicad/mod_kicad/LFcomponents
+LibName1=../../../kicad-components/mod_kicad/LFcomponents
+LibName2=../../../kicad-components/mod_kicad/LFconnectors
+LibName3=../../../kicad-components/mod_kicad/LFsmd_case
+LibName4=../../../kicad-components/mod_kicad/LFtransformator
