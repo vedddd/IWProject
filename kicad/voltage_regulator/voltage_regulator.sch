@@ -1,0 +1,254 @@
+EESchema Schematic File Version 2  date Sun 07 Jul 2013 18:45:35 MSK
+LIBS:LFbutton
+LIBS:LFcapitors
+LIBS:LFcomponents
+LIBS:LFconnectors
+LIBS:LFdiod
+LIBS:LFpower
+LIBS:LFresistor
+LIBS:LFtransformator
+LIBS:LFtransistor
+LIBS:power
+LIBS:voltage_regulator-cache
+EELAYER 25  0
+EELAYER END
+$Descr User 11000 17000
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "7 jul 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 6650 16270 0    60   ~ 0
+voltage regulator v1.0
+Connection ~ 6700 9650
+Wire Wire Line
+	6700 9650 6700 9425
+Connection ~ 6700 8100
+Wire Wire Line
+	6700 8100 6700 8350
+Wire Wire Line
+	7850 8900 5625 8900
+Connection ~ 7325 8100
+Wire Wire Line
+	7575 8100 4700 8100
+Wire Wire Line
+	7575 8100 7575 8800
+Wire Wire Line
+	7575 8800 7850 8800
+Connection ~ 5400 8100
+Wire Wire Line
+	5875 8100 5875 8325
+Wire Wire Line
+	7325 8575 7325 9175
+Connection ~ 5875 9650
+Wire Wire Line
+	5875 9650 5875 9425
+Wire Wire Line
+	4000 9300 4250 9300
+Wire Wire Line
+	4250 9300 4250 9750
+Wire Wire Line
+	4250 9750 5050 9750
+Wire Wire Line
+	5050 9750 5050 8900
+Wire Wire Line
+	5050 8900 5400 8900
+Connection ~ 5400 8900
+Wire Wire Line
+	3300 8900 3550 8900
+Wire Wire Line
+	3550 9000 3550 9300
+Wire Wire Line
+	3550 9000 3300 9000
+Wire Wire Line
+	3550 9300 3750 9300
+Wire Wire Line
+	5400 9150 5400 8600
+Wire Wire Line
+	4700 9450 4700 9650
+Wire Wire Line
+	5400 9450 5400 9650
+Wire Wire Line
+	4700 9150 4700 8600
+Wire Wire Line
+	5400 8300 5400 8100
+Wire Wire Line
+	4700 8100 4700 8300
+Wire Wire Line
+	3300 8800 3550 8800
+Wire Wire Line
+	3550 8800 3550 8500
+Wire Wire Line
+	3550 8500 3750 8500
+Connection ~ 4700 8900
+Wire Wire Line
+	4700 8900 4250 8900
+Wire Wire Line
+	4250 8900 4250 8500
+Wire Wire Line
+	4250 8500 4000 8500
+Wire Wire Line
+	7325 9650 7325 9425
+Connection ~ 5400 9650
+Wire Wire Line
+	5875 8575 5875 9175
+Connection ~ 7325 8900
+Connection ~ 5875 8900
+Wire Wire Line
+	4700 9650 7600 9650
+Wire Wire Line
+	7600 9650 7600 9000
+Wire Wire Line
+	7600 9000 7850 9000
+Connection ~ 7325 9650
+Wire Wire Line
+	7325 8100 7325 8325
+Connection ~ 5875 8100
+Connection ~ 6700 8900
+Wire Wire Line
+	6700 9175 6700 8600
+$Comp
+L CAPITORS_ELECTROLYTIC C5
+U 1 1 51AC4B9C
+P 6700 9175
+F 0 "C5" V 7300 9175 71  0000 C CNN
+F 1 "10000 мк 50 В" V 7425 9400 71  0000 C CNN
+	1    6700 9175
+	0    1    1    0   
+$EndComp
+$Comp
+L CAPITORS_ELECTROLYTIC C2
+U 1 1 51AC4B9B
+P 6700 8350
+F 0 "C2" V 6250 8325 71  0000 C CNN
+F 1 "10000 мк 50 В" V 6350 8575 71  0000 C CNN
+	1    6700 8350
+	0    1    1    0   
+$EndComp
+Text Label 5625 8900 0    60   ~ 0
+GND
+$Comp
+L CAPITORS C6
+U 1 1 51AC3F7E
+P 7325 9425
+F 0 "C6" H 7450 9250 71  0000 C CNN
+F 1 "0.22 мк 400 В" H 7325 9075 71  0000 C CNN
+	1    7325 9425
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CAPITORS_ELECTROLYTIC C4
+U 1 1 51AC3F7D
+P 5875 9175
+F 0 "C4" V 6475 9150 71  0000 C CNN
+F 1 "10000 мк 50 В" V 6600 9200 71  0000 C CNN
+	1    5875 9175
+	0    1    1    0   
+$EndComp
+$Comp
+L CAPITORS_ELECTROLYTIC C1
+U 1 1 51AC3F31
+P 5875 8325
+F 0 "C1" V 5450 8325 71  0000 C CNN
+F 1 "10000 мк 50 В" V 5550 8325 71  0000 C CNN
+	1    5875 8325
+	0    1    1    0   
+$EndComp
+$Comp
+L CAPITORS C3
+U 1 1 51AC3F2D
+P 7325 8575
+F 0 "C3" H 7450 8425 71  0000 C CNN
+F 1 "0.22 мк 400 В" H 7550 8225 71  0000 C CNN
+	1    7325 8575
+	0    -1   -1   0   
+$EndComp
+Text Label 4775 9650 0    60   ~ 0
+VCC-
+Text Label 4750 8100 0    60   ~ 0
+VCC+
+$Comp
+L PIN_F_3 XS?
+U 1 1 51AC3EE1
+P 7850 9000
+AR Path="/51AC3C4F" Ref="XS?"  Part="1" 
+AR Path="/51AC3EE1" Ref="XS2"  Part="1" 
+F 0 "XS2" H 8100 8550 50  0000 L BNN
+F 1 "DG126-5.0-03P-14" H 7800 8650 50  0000 L BNN
+F 2 "~" H 8300 9150 50  0001 C CNN
+	1    7850 9000
+	1    0    0    1   
+$EndComp
+Text Label 3550 8900 2    60   ~ 0
+GND
+$Comp
+L PROTECTOR FU2
+U 1 1 51AC3D29
+P 3750 9300
+F 0 "FU2" H 3700 9450 60  0000 C CNN
+F 1 "10 A" H 4000 9450 60  0000 C CNN
+	1    3750 9300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SHOTTKY_DIODE VD4
+U 1 1 51AC3D01
+P 5400 9450
+F 0 "VD4" H 5500 9700 60  0000 C CNN
+F 1 "MDR10100" H 5500 9600 60  0000 C CNN
+	1    5400 9450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SHOTTKY_DIODE VD3
+U 1 1 51AC3CFE
+P 4700 9450
+F 0 "VD3" H 4800 9700 60  0000 C CNN
+F 1 "MDR10100" H 4800 9600 60  0000 C CNN
+	1    4700 9450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SHOTTKY_DIODE VD2
+U 1 1 51AC3CFB
+P 5400 8600
+F 0 "VD2" H 5500 8850 60  0000 C CNN
+F 1 "MDR10100" H 5500 8750 60  0000 C CNN
+	1    5400 8600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PROTECTOR FU1
+U 1 1 51AC3C99
+P 3750 8500
+F 0 "FU1" H 3700 8650 60  0000 C CNN
+F 1 "10 A" H 4000 8650 60  0000 C CNN
+	1    3750 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L PIN_F_3 XS1
+U 1 1 51AC3C4F
+P 3300 8800
+F 0 "XS1" H 3450 9000 50  0000 L BNN
+F 1 "DG126-5.0-03P-14" H 3100 8900 50  0000 L BNN
+F 2 "~" H 3750 8950 50  0001 C CNN
+	1    3300 8800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SHOTTKY_DIODE VD1
+U 1 1 51AC3BC4
+P 4700 8600
+F 0 "VD1" H 4800 8850 60  0000 C CNN
+F 1 "MDR10100" H 4800 8750 60  0000 C CNN
+	1    4700 8600
+	0    -1   -1   0   
+$EndComp
+$EndSCHEMATC

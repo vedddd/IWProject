@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Mon 11 Aug 2014 12:47:22 MSK
+
+BeginCmp
+TimeStamp = /53E883FF;
+Reference = C1;
+ValeurCmp = 0.1 мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E883D6;
+Reference = C2;
+ValeurCmp = 0.1 мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E8834E;
+Reference = C3;
+ValeurCmp = 22 п;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E882E2;
+Reference = C4;
+ValeurCmp = 47 мк;
+IdModule  = CASE_C;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E8845F;
+Reference = DA1;
+ValeurCmp = LME49720MA;
+IdModule  = SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E881A6;
+Reference = R1;
+ValeurCmp = 1 к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E881E6;
+Reference = R2;
+ValeurCmp = 5.1 к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E882A4;
+Reference = R3;
+ValeurCmp = 100 к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E8828B;
+Reference = R4;
+ValeurCmp = 5.1 к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E882C6;
+Reference = R5;
+ValeurCmp = 5.1 к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E88238;
+Reference = VD1;
+ValeurCmp = BZV55C3V3;
+IdModule  = SOD80C;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E88407;
+Reference = XP1;
+ValeurCmp = WF-2R;
+IdModule  = WF-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E88414;
+Reference = XP2;
+ValeurCmp = WF-3R;
+IdModule  = WF-3;
+EndCmp
+
+EndListe
