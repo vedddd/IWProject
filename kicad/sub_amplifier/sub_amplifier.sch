@@ -15,7 +15,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "12 apr 2015"
+Date "15 apr 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -24,26 +24,18 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Wire Wire Line
-	3800 5300 3800 5050
-Wire Wire Line
-	3800 5050 3800 4850
-Wire Wire Line
-	2700 3750 3000 3750
+	3800 4850 3800 5300
 Wire Wire Line
 	6350 3200 6650 3200
 Wire Wire Line
 	4750 3550 4550 3550
 Wire Wire Line
-	4000 4400 3800 4400
-Wire Wire Line
-	3800 4400 3600 4400
+	3600 4400 4000 4400
 Connection ~ 3800 5050
 Wire Wire Line
-	4550 4850 4550 5050
+	4550 5050 4550 4850
 Wire Wire Line
-	4550 5050 3800 5050
-Wire Wire Line
-	3800 5050 3100 5050
+	3100 5050 4550 5050
 Wire Wire Line
 	4550 4400 4250 4400
 Connection ~ 3100 4400
@@ -51,20 +43,16 @@ Wire Wire Line
 	3100 4400 3350 4400
 Connection ~ 3800 4400
 Wire Wire Line
-	2700 3550 3000 3550
+	2700 3400 3000 3400
 Wire Wire Line
 	5650 2250 6450 2250
 Wire Wire Line
-	9150 2800 8500 2800
-Wire Wire Line
-	8500 2800 8400 2800
+	8400 2800 9150 2800
 Wire Wire Line
 	8500 3500 8500 3750
 Connection ~ 8500 2800
 Wire Wire Line
-	8500 2900 8500 2800
-Wire Wire Line
-	8500 2800 8500 2400
+	8500 2400 8500 2900
 Connection ~ 7700 2800
 Wire Wire Line
 	7950 2400 7700 2400
@@ -72,33 +60,23 @@ Wire Wire Line
 	7700 2400 7700 2800
 Connection ~ 4650 3200
 Wire Wire Line
-	4750 3200 4650 3200
-Wire Wire Line
-	4650 3200 4450 3200
+	4450 3200 4750 3200
 Connection ~ 7300 3450
 Wire Wire Line
-	7600 3350 7600 3450
+	7600 3450 7600 3350
 Wire Wire Line
-	7600 3450 7300 3450
-Wire Wire Line
-	7300 3450 7100 3450
+	7100 3450 7600 3450
 Connection ~ 7300 3000
 Wire Wire Line
-	7600 3100 7600 3000
+	7600 3000 7600 3100
 Wire Wire Line
-	7600 3000 7300 3000
+	6350 3000 7600 3000
 Wire Wire Line
-	7300 3000 7100 3000
+	6900 3900 7600 3900
 Wire Wire Line
-	7600 3900 7300 3900
+	6900 3500 6900 3900
 Wire Wire Line
-	7300 3900 6900 3900
-Wire Wire Line
-	6900 3900 6900 3500
-Wire Wire Line
-	6900 3500 6450 3500
-Wire Wire Line
-	6450 3500 6350 3500
+	6350 3500 6900 3500
 Wire Wire Line
 	3700 2600 3700 2700
 Connection ~ 4000 2250
@@ -106,9 +84,7 @@ Wire Wire Line
 	4000 2350 4000 2250
 Connection ~ 4650 2250
 Wire Wire Line
-	4450 2250 4650 2250
-Wire Wire Line
-	4650 2250 5400 2250
+	4450 2250 5400 2250
 Connection ~ 7300 3900
 Wire Wire Line
 	7600 4650 7600 4750
@@ -116,14 +92,10 @@ Wire Wire Line
 	7600 4750 7300 4750
 Connection ~ 6450 3500
 Wire Wire Line
-	7300 3900 7300 4300
-Wire Wire Line
-	7300 4300 7300 4400
+	7300 3900 7300 4400
 Connection ~ 6450 4350
 Wire Wire Line
-	6450 4600 6450 4350
-Wire Wire Line
-	6450 4350 6450 4250
+	6450 4250 6450 4600
 Connection ~ 6450 3900
 Wire Wire Line
 	6750 4000 6750 3900
@@ -131,24 +103,14 @@ Wire Wire Line
 	6750 3900 6450 3900
 Connection ~ 6450 3700
 Wire Wire Line
-	6450 4000 6450 3900
-Wire Wire Line
-	6450 3900 6450 3700
-Wire Wire Line
-	6450 3700 6450 3600
+	6450 3600 6450 4000
 Connection ~ 4000 3000
 Wire Wire Line
-	4750 3000 4000 3000
-Wire Wire Line
-	4000 3000 3700 3000
-Wire Wire Line
-	3700 3000 3450 3000
+	3450 3000 4750 3000
 Wire Wire Line
 	2700 3100 3000 3100
 Wire Wire Line
-	3700 3750 3700 3550
-Wire Wire Line
-	3700 3550 3700 3400
+	3700 3400 3700 3750
 Connection ~ 3700 3000
 Wire Wire Line
 	3700 3150 3700 3000
@@ -164,9 +126,7 @@ Connection ~ 3700 3550
 Wire Wire Line
 	6450 3600 6350 3600
 Wire Wire Line
-	6750 3700 6450 3700
-Wire Wire Line
-	6450 3700 6350 3700
+	6350 3700 6750 3700
 Wire Wire Line
 	6450 4350 6750 4350
 Wire Wire Line
@@ -181,9 +141,7 @@ Wire Wire Line
 	7600 4300 7300 4300
 Connection ~ 7300 4300
 Wire Wire Line
-	7300 4650 7300 4750
-Wire Wire Line
-	7300 4750 7300 5000
+	7300 4650 7300 5000
 Connection ~ 7300 4750
 Wire Wire Line
 	4750 2800 4650 2800
@@ -192,20 +150,14 @@ Wire Wire Line
 Wire Wire Line
 	3700 2350 3700 2250
 Wire Wire Line
-	3700 2250 4000 2250
-Wire Wire Line
-	4000 2250 4200 2250
+	3700 2250 4200 2250
 Wire Wire Line
 	3700 2700 4000 2700
 Wire Wire Line
 	6450 2250 6450 2800
 Wire Wire Line
-	4000 2600 4000 2700
-Wire Wire Line
-	4000 2700 4000 2900
+	4000 2600 4000 2900
 Connection ~ 4000 2700
-Wire Wire Line
-	6350 3000 7100 3000
 Wire Wire Line
 	7100 3000 7100 3000
 Wire Wire Line
@@ -221,11 +173,7 @@ Wire Wire Line
 Wire Wire Line
 	4650 3300 4750 3300
 Wire Wire Line
-	7800 2800 7700 2800
-Wire Wire Line
-	7700 2800 6450 2800
-Wire Wire Line
-	6450 2800 6350 2800
+	6350 2800 7800 2800
 Connection ~ 6450 2800
 Wire Wire Line
 	8500 2400 8200 2400
@@ -242,11 +190,7 @@ Wire Wire Line
 Wire Wire Line
 	3300 4150 3100 4150
 Wire Wire Line
-	3100 4050 3100 4150
-Wire Wire Line
-	3100 4150 3100 4400
-Wire Wire Line
-	3100 4400 3100 4600
+	3100 4050 3100 4600
 Connection ~ 3100 4150
 Wire Wire Line
 	3100 5050 3100 4850
@@ -254,21 +198,15 @@ Wire Wire Line
 	3600 4150 4550 4150
 Connection ~ 4550 4400
 Wire Wire Line
-	4550 3550 4550 4150
-Wire Wire Line
-	4550 4150 4550 4400
-Wire Wire Line
-	4550 4400 4550 4600
+	4550 3550 4550 4600
 Connection ~ 4550 4150
 Wire Wire Line
 	4750 3650 3800 3650
 Wire Wire Line
-	3800 3650 3800 4400
-Wire Wire Line
-	3800 4400 3800 4600
+	3800 3650 3800 4600
 Text Label 3800 5300 1    60   ~ 0
 GND
-Text Label 3000 3750 2    60   ~ 0
+Text Label 3000 3700 2    60   ~ 0
 CLIP
 Text Label 6650 3200 2    60   ~ 0
 CLIP
@@ -349,19 +287,19 @@ F 3 "" H 3100 4050 60  0001 C CNN
 	1    3100 4050
 	0    -1   -1   0   
 $EndComp
-Text Label 3000 3550 2    60   ~ 0
+Text Label 3000 3600 2    60   ~ 0
 GND
 $Comp
-L PIN_F_3 XS?
+L PIN_F_4 XS?
 U 1 1 532EF4B2
-P 2700 3550
+P 2700 3400
 AR Path="/530320C3" Ref="XS?"  Part="1" 
 AR Path="/532EF4B2" Ref="XS4"  Part="1" 
-F 0 "XS4" H 2800 3750 50  0000 L BNN
-F 1 "WF-3" H 2750 3650 50  0000 L BNN
-F 2 "~" H 3150 3700 50  0001 C CNN
-F 3 "" H 2700 3550 60  0001 C CNN
-	1    2700 3550
+F 0 "XS4" H 2800 3600 50  0000 L BNN
+F 1 "WF-4" H 2750 3500 50  0000 L BNN
+F 2 "~" H 3150 3550 50  0001 C CNN
+F 3 "" H 2700 3400 60  0001 C CNN
+	1    2700 3400
 	-1   0    0    -1  
 $EndComp
 Text Label 3150 1800 2    60   ~ 0
@@ -630,10 +568,16 @@ F 3 "" H 2700 3000 60  0001 C CNN
 	1    2700 3000
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	2700 3650 3100 3650
-Wire Wire Line
-	3100 3650 3100 3800
-Text Label 2800 3650 0    60   ~ 0
+Text Label 3000 3500 2    60   ~ 0
 MU/ST
+Wire Wire Line
+	2700 3700 3000 3700
+Text Label 3000 3400 2    60   ~ 0
++29V
+Wire Wire Line
+	2700 3500 3000 3500
+Wire Wire Line
+	2700 3600 3100 3600
+Wire Wire Line
+	3100 3600 3100 3800
 $EndSCHEMATC

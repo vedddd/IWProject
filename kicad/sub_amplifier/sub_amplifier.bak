@@ -635,5 +635,5 @@ Wire Wire Line
 Wire Wire Line
 	3100 3650 3100 3800
 Text Label 2800 3650 0    60   ~ 0
-STBY
+MU/ST
 $EndSCHEMATC
