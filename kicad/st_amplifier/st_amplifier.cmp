@@ -1,185 +1,479 @@
-Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Ср. 03 апр. 2013 12:09:45
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sun 19 Apr 2015 20:19:49 MSK
 
 BeginCmp
-TimeStamp = /4EC1089C;
+TimeStamp = /552AC2FB;
 Reference = C1;
-ValeurCmp = 0.1_мк;
-IdModule  = SMD0805;
+ValeurCmp = 470мк 50В;
+IdModule  = CAPACITOR_CD263_5.08_D10;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC10899;
+TimeStamp = /552ACA50;
 Reference = C2;
-ValeurCmp = 0.1_мк;
-IdModule  = SMD0805;
+ValeurCmp = 22мк 35В;
+IdModule  = CAPACITOR_CD263_2.54_D6.3;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC10EB4;
+TimeStamp = /552ACA56;
 Reference = C3;
-ValeurCmp = 0.1_мк;
-IdModule  = SMD0805;
+ValeurCmp = 0.1 мк;
+IdModule  = CAPACITOR_K10-17;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC10E8A;
+TimeStamp = /552AC316;
 Reference = C4;
-ValeurCmp = 0.1_мк;
-IdModule  = SMD0805;
+ValeurCmp = 470мк 50В;
+IdModule  = CAPACITOR_CD263_5.08_D10;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC10828;
+TimeStamp = /552ACA66;
 Reference = C5;
-ValeurCmp = 0.1_мк;
-IdModule  = SMD0805;
+ValeurCmp = 22мк 35В;
+IdModule  = CAPACITOR_CD263_2.54_D6.3;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC11642;
+TimeStamp = /552ACA6C;
 Reference = C6;
-ValeurCmp = 0.1_мк;
-IdModule  = SMD0805;
+ValeurCmp = 0.1 мк;
+IdModule  = CAPACITOR_K10-17;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC106B6;
+TimeStamp = /532EEA1E;
 Reference = C7;
-ValeurCmp = 0.1_мк;
-IdModule  = SMD0805;
+ValeurCmp = 100мк 50В;
+IdModule  = CAPACITOR_5.08_D13;
 EndCmp
 
 BeginCmp
-TimeStamp = /4ED79055;
+TimeStamp = /532EEA97;
 Reference = C8;
-ValeurCmp = ~;
-IdModule  = SMD0805;
+ValeurCmp = 2.2 мк;
+IdModule  = CAPACITOR_CBB21_20_24x11;
 EndCmp
 
 BeginCmp
-TimeStamp = /4ED79054;
+TimeStamp = /532EEFA4;
 Reference = C9;
-ValeurCmp = ~;
-IdModule  = SMD0805;
+ValeurCmp = 0.1 мк;
+IdModule  = CAPACITOR_K10-17;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EDCA680;
+TimeStamp = /532EEBAE;
+Reference = C10;
+ValeurCmp = 1 мк;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EEBAF;
+Reference = C11;
+ValeurCmp = 100мк 50В;
+IdModule  = CAPACITOR_5.08_D13;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9913;
+Reference = C12;
+ValeurCmp = 10 п;
+IdModule  = CAPACITOR_K10-17;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A954C;
+Reference = C13;
+ValeurCmp = 10 п;
+IdModule  = CAPACITOR_K10-17;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EE864;
+Reference = C14;
+ValeurCmp = 2200мк 50В;
+IdModule  = CAPACITOR_10_D22;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EE863;
+Reference = C15;
+ValeurCmp = 1 мк;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EE840;
+Reference = C16;
+ValeurCmp = 2200мк 50В;
+IdModule  = CAPACITOR_10_D22;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EE846;
+Reference = C17;
+ValeurCmp = 1 мк;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EF56A;
+Reference = C18;
+ValeurCmp = 10мк 50В;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EF57A;
+Reference = C19;
+ValeurCmp = 10мк 50В;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53032103;
+Reference = C20;
+ValeurCmp = 2.2 мк;
+IdModule  = CAPACITOR_CBB21_20_24x11;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303211D;
+Reference = C21;
+ValeurCmp = 100 п;
+IdModule  = CAPACITOR_K10-17;
+EndCmp
+
+BeginCmp
+TimeStamp = /552AAD8D;
+Reference = C22;
+ValeurCmp = 0.1 мк;
+IdModule  = CAPACITOR_K10-17;
+EndCmp
+
+BeginCmp
+TimeStamp = /552AAD48;
+Reference = C23;
+ValeurCmp = 0.1 мк;
+IdModule  = CAPACITOR_K10-17;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A8F08;
+Reference = C24;
+ValeurCmp = 2.2 мк;
+IdModule  = CAPACITOR_CBB21_20_24x11;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A86A2;
+Reference = C25;
+ValeurCmp = 100мк 50В;
+IdModule  = CAPACITOR_5.08_D13;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A869C;
+Reference = C26;
+ValeurCmp = 2.2 мк;
+IdModule  = CAPACITOR_CBB21_20_24x11;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A8F02;
+Reference = C27;
+ValeurCmp = 100 п;
+IdModule  = CAPACITOR_K10-17;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A8670;
+Reference = C28;
+ValeurCmp = 0.1 мк;
+IdModule  = CAPACITOR_K10-17;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A8695;
+Reference = C29;
+ValeurCmp = 1 мк;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A868F;
+Reference = C30;
+ValeurCmp = 100мк 50В;
+IdModule  = CAPACITOR_5.08_D13;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A86B8;
+Reference = C31;
+ValeurCmp = 470мк 50В;
+IdModule  = CAPACITOR_CD263_5.08_D10;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A86BE;
+Reference = C32;
+ValeurCmp = 1 мк;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A86CA;
+Reference = C33;
+ValeurCmp = 470мк 50В;
+IdModule  = CAPACITOR_CD263_5.08_D10;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A86C4;
+Reference = C34;
+ValeurCmp = 1 мк;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552AC2BA;
 Reference = DA1;
-ValeurCmp = TLP521-2;
-IdModule  = DIP_8;
+ValeurCmp = LM7815;
+IdModule  = TO220_VERT_POZ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC100C5;
-Reference = DD1;
-ValeurCmp = AD7730;
-IdModule  = SOIC_24;
+TimeStamp = /552AC2D8;
+Reference = DA2;
+ValeurCmp = LM7915;
+IdModule  = TO220_VERT_POZ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC111E1;
+TimeStamp = /552A879C;
+Reference = DA3;
+ValeurCmp = LME49720MA;
+IdModule  = SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EE822;
+Reference = DA4;
+ValeurCmp = TDA7293;
+IdModule  = MULTIWATT15;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A86D0;
+Reference = DA5;
+ValeurCmp = TDA7293;
+IdModule  = MULTIWATT15;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EEF5B;
+Reference = L1;
+ValeurCmp = 0,7 мкГн;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A867C;
+Reference = L2;
+ValeurCmp = 0,7 мкГн;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EE9DE;
 Reference = R1;
-ValeurCmp = 1_k;
-IdModule  = SMD0805;
+ValeurCmp = 1 к  +/-0.5%;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EC104CC;
+TimeStamp = /532EE9CC;
 Reference = R2;
-ValeurCmp = 1_k;
-IdModule  = SMD0805;
+ValeurCmp = 2 к  +/-0.5%;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4ED78EB4;
+TimeStamp = /532EEF3C;
 Reference = R3;
-ValeurCmp = 0;
-IdModule  = SMD0805;
+ValeurCmp = 10;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EDCA6EA;
+TimeStamp = /552AA729;
 Reference = R4;
-ValeurCmp = 470;
-IdModule  = SMD0805;
+ValeurCmp = 2,7 к;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EDCA6FB;
+TimeStamp = /532EEF8D;
 Reference = R5;
-ValeurCmp = 470;
-IdModule  = SMD0805;
+ValeurCmp = 10;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EDF7D16;
+TimeStamp = /552A990C;
 Reference = R6;
-ValeurCmp = 1_к;
-IdModule  = SMD0805;
+ValeurCmp = 47 к +/-0.5%;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EDF7CA0;
+TimeStamp = /532EF4FF;
+Reference = R7;
+ValeurCmp = 5.1 к;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9247;
+Reference = R8;
+ValeurCmp = 47 к +/-0.5%;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EF545;
+Reference = R9;
+ValeurCmp = 22 к;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EF55B;
+Reference = R10;
+ValeurCmp = 22 к;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EF55E;
+Reference = R11;
+ValeurCmp = 1 к;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53032164;
+Reference = R12;
+ValeurCmp = 22 к;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A86A8;
+Reference = R13;
+ValeurCmp = 1 к +/- 0.5%;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A86AE;
+Reference = R14;
+ValeurCmp = 2 к +/- 0.5%;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9252;
+Reference = R15;
+ValeurCmp = 12 к +/-0.5%;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A928A;
+Reference = R16;
+ValeurCmp = 12 к +/-0.5%;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A8682;
+Reference = R17;
+ValeurCmp = 10;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A8EFC;
+Reference = R18;
+ValeurCmp = 22 к;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552AA734;
+Reference = R19;
+ValeurCmp = 2,7 к;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A8676;
+Reference = R20;
+ValeurCmp = 10;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /532EF522;
 Reference = VD1;
-ValeurCmp = BAS216;
-IdModule  = SOD110;
+ValeurCmp = 1N4007;
+IdModule  = DO-41;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EB91375;
-Reference = XP1;
-ValeurCmp = PLS-8;
-IdModule  = SIL-8;
+TimeStamp = /532EF1A5;
+Reference = XS1;
+ValeurCmp = DG126-5.0-03P-14;
+IdModule  = DG126-5.0-03P-14;
 EndCmp
 
 BeginCmp
-TimeStamp = /4ED777B2;
-Reference = XP2;
-ValeurCmp = PLS-8;
-IdModule  = SIL-8;
-EndCmp
-
-BeginCmp
-TimeStamp = /4EB912B4;
-Reference = XP3;
-ValeurCmp = PLS-6;
-IdModule  = SIL-6;
-EndCmp
-
-BeginCmp
-TimeStamp = /4ED78CD0;
-Reference = XP4;
-ValeurCmp = PLS-6;
-IdModule  = SIL-6;
-EndCmp
-
-BeginCmp
-TimeStamp = /4EC10C5C;
-Reference = XP5;
-ValeurCmp = WF-6;
-IdModule  = SIL-6;
-EndCmp
-
-BeginCmp
-TimeStamp = /4EDCA7AD;
-Reference = XP6;
+TimeStamp = /552AB154;
+Reference = XS2;
 ValeurCmp = WF-4;
-IdModule  = SIL-4;
+IdModule  = WF-4;
 EndCmp
 
 BeginCmp
-TimeStamp = /4EDF7C72;
-Reference = XP7;
+TimeStamp = /532EEEEE;
+Reference = XS3;
+ValeurCmp = DG126-5.0-02P-14;
+IdModule  = DG126-5.0-02P-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /530320C3;
+Reference = XS4;
 ValeurCmp = WF-2;
-IdModule  = SIL-2;
+IdModule  = WF-2;
 EndCmp
 
 BeginCmp
-TimeStamp = /4ED78F56;
-Reference = Z1;
-ValeurCmp = ~;
-IdModule  = Q_49U3HMS&;
+TimeStamp = /552A8F0F;
+Reference = XS5;
+ValeurCmp = WF-2;
+IdModule  = WF-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A8688;
+Reference = XS6;
+ValeurCmp = DG126-5.0-02P-14;
+IdModule  = DG126-5.0-02P-14;
 EndCmp
 
 EndListe
