@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/vdn/git/IWProject/kicad/st_amplifier/st_amplifier.sch)
-    (date "Sun 19 Apr 2015 18:16:03 MSK")
+    (date "Thu 23 Apr 2015 18:17:28 MSK")
     (tool "eeschema (2013-jul-07)-stable"))
   (components
     (comp (ref C19)
@@ -475,14 +475,14 @@
         (pin (num 1) (name ~) (type input))
         (pin (num 2) (name ~) (type input)))))
   (libraries
+    (library (logical LFcapitors)
+      (uri ../../../kicad-components/library_kicad/LFcapitors.lib))
     (library (logical LFcomponents)
       (uri ../../../kicad-components/library_kicad/LFcomponents.lib))
     (library (logical LFconnectors)
       (uri ../../../kicad-components/library_kicad/LFconnectors.lib))
     (library (logical LFdiod)
       (uri ../../../kicad-components/library_kicad/LFdiod.lib))
-    (library (logical LFcapitors)
-      (uri ../../../kicad-components/library_kicad/LFcapitors.lib))
     (library (logical LFresistor)
       (uri ../../../kicad-components/library_kicad/LFresistor.lib))
     (library (logical LFtransformator)
