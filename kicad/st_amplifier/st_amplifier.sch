@@ -15,7 +15,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "19 apr 2015"
+Date "28 apr 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -26,7 +26,7 @@ $EndDescr
 Wire Wire Line
 	8900 5700 8900 6150
 Wire Wire Line
-	11450 4050 11750 4050
+	11450 4050 11800 4050
 Wire Wire Line
 	9850 4400 9650 4400
 Wire Wire Line
@@ -55,7 +55,7 @@ Connection ~ 12800 3650
 Wire Wire Line
 	13050 3250 12800 3250
 Wire Wire Line
-	12800 3650 12800 3250
+	12800 3250 12800 3650
 Connection ~ 9750 4050
 Wire Wire Line
 	9550 4050 9850 4050
@@ -98,15 +98,13 @@ Connection ~ 11550 4750
 Wire Wire Line
 	11850 4850 11850 4750
 Wire Wire Line
-	11550 4750 11850 4750
+	11850 4750 11550 4750
 Connection ~ 11550 4550
 Wire Wire Line
 	11550 4450 11550 4850
 Connection ~ 3350 5550
 Wire Wire Line
 	2800 5550 4850 5550
-Wire Wire Line
-	2050 5650 2350 5650
 Wire Wire Line
 	3050 5950 3050 6400
 Connection ~ 3050 5550
@@ -115,7 +113,7 @@ Wire Wire Line
 Wire Wire Line
 	3350 5550 3350 5700
 Wire Wire Line
-	2050 5550 2550 5550
+	1950 5550 2550 5550
 Wire Wire Line
 	3050 6100 3350 6100
 Wire Wire Line
@@ -204,8 +202,8 @@ Wire Wire Line
 	8900 4500 8900 5450
 Text Label 8900 6150 1    60   ~ 0
 GND
-Text Label 11750 4050 2    60   ~ 0
-CLIP
+Text Label 11800 4050 2    60   ~ 0
+CLIP_1
 $Comp
 L CAPITORS_ELECTROLYTIC C19
 U 1 1 532EF57A
@@ -536,17 +534,15 @@ F 3 "" H 2550 5550 60  0001 C CNN
 	1    2550 5550
 	1    0    0    -1  
 $EndComp
-Text Label 2350 5650 2    60   ~ 0
-GND
 $Comp
-L PIN_F_2 XS4
+L PIN_M_4 XS4
 U 1 1 530320C3
-P 2050 5550
-F 0 "XS4" H 2150 5750 50  0000 L BNN
-F 1 "WF-2" H 2100 5650 50  0000 L BNN
-F 2 "~" H 2500 5700 50  0001 C CNN
-F 3 "" H 2050 5550 60  0001 C CNN
-	1    2050 5550
+P 1850 5950
+F 0 "XS4" H 1950 6150 50  0000 L BNN
+F 1 "WF-4" H 1900 6050 50  0000 L BNN
+F 2 "~" H 2300 6100 50  0001 C CNN
+F 3 "" H 1850 5950 60  0001 C CNN
+	1    1850 5950
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
@@ -554,7 +550,7 @@ Wire Wire Line
 Text Label 8200 4250 3    60   ~ 0
 MU/ST
 Wire Wire Line
-	11250 7600 11550 7600
+	11250 7600 11600 7600
 Wire Wire Line
 	10550 6650 11350 6650
 Wire Wire Line
@@ -568,7 +564,7 @@ Connection ~ 12600 7200
 Wire Wire Line
 	12850 6800 12600 6800
 Wire Wire Line
-	12600 7200 12600 6800
+	12600 6800 12600 7200
 Connection ~ 9550 7600
 Wire Wire Line
 	9350 7600 9650 7600
@@ -611,7 +607,7 @@ Connection ~ 11350 8300
 Wire Wire Line
 	11650 8400 11650 8300
 Wire Wire Line
-	11350 8300 11650 8300
+	11650 8300 11350 8300
 Connection ~ 11350 8100
 Wire Wire Line
 	11350 8000 11350 8400
@@ -673,8 +669,8 @@ Wire Wire Line
 	13400 7650 13400 7550
 Wire Wire Line
 	13850 7300 14050 7300
-Text Label 11550 7600 2    60   ~ 0
-CLIP
+Text Label 11600 7600 2    60   ~ 0
+CLIP_2
 Text Label 13850 7300 0    60   ~ 0
 GND
 Text Label 13400 8150 1    60   ~ 0
@@ -726,17 +722,17 @@ $EndComp
 $Comp
 L PIN_F_2 XS?
 U 1 1 552A8688
-P 14050 7200
+P 14050 7300
 AR Path="/52F0D059" Ref="XS?"  Part="1" 
 AR Path="/52F0D221" Ref="XS?"  Part="1" 
 AR Path="/5303196E" Ref="XS?"  Part="1" 
 AR Path="/552A8688" Ref="XS6"  Part="1" 
-F 0 "XS6" H 14200 7400 50  0000 L BNN
-F 1 "DG126-5.0-02P-14" H 13900 7300 50  0000 L BNN
-F 2 "~" H 14500 7350 50  0001 C CNN
-F 3 "" H 14050 7200 60  0001 C CNN
-	1    14050 7200
-	1    0    0    -1  
+F 0 "XS6" H 14200 6950 50  0000 L BNN
+F 1 "DG126-5.0-02P-14" H 13900 7050 50  0000 L BNN
+F 2 "~" H 14500 7450 50  0001 C CNN
+F 3 "" H 14050 7300 60  0001 C CNN
+	1    14050 7300
+	1    0    0    1   
 $EndComp
 Text Label 9350 7600 0    60   ~ 0
 GND
@@ -821,7 +817,7 @@ L CAPITORS_ELECTROLYTIC C31
 U 1 1 552A86B8
 P 11350 8400
 F 0 "C31" V 11450 7950 71  0000 C CNN
-F 1 "470мк 50В" V 11550 7950 71  0000 C CNN
+F 1 "2200мк 50В" V 11550 7950 71  0000 C CNN
 F 2 "" H 11350 8400 60  0001 C CNN
 F 3 "" H 11350 8400 60  0001 C CNN
 	1    11350 8400
@@ -854,7 +850,7 @@ L CAPITORS_ELECTROLYTIC C33
 U 1 1 552A86CA
 P 12200 8800
 F 0 "C33" V 12300 8350 71  0000 C CNN
-F 1 "470мк 50В" V 12400 8350 71  0000 C CNN
+F 1 "2200мк 50В" V 12400 8350 71  0000 C CNN
 F 2 "" H 12200 8800 60  0001 C CNN
 F 3 "" H 12200 8800 60  0001 C CNN
 	1    12200 8800
@@ -904,8 +900,6 @@ Connection ~ 3350 6700
 Wire Wire Line
 	2800 6700 3850 6700
 Wire Wire Line
-	2050 6800 2350 6800
-Wire Wire Line
 	3050 7100 3050 7550
 Connection ~ 3050 6700
 Wire Wire Line
@@ -913,7 +907,7 @@ Wire Wire Line
 Wire Wire Line
 	3350 6700 3350 6850
 Wire Wire Line
-	2050 6700 2550 6700
+	1950 6700 2550 6700
 Wire Wire Line
 	3050 7250 3350 7250
 Wire Wire Line
@@ -954,19 +948,8 @@ F 3 "" H 2550 6700 60  0001 C CNN
 	1    2550 6700
 	1    0    0    -1  
 $EndComp
-Text Label 2350 6800 2    60   ~ 0
+Text Label 2150 6050 2    60   ~ 0
 GND
-$Comp
-L PIN_F_2 XS5
-U 1 1 552A8F0F
-P 2050 6700
-F 0 "XS5" H 2150 6900 50  0000 L BNN
-F 1 "WF-2" H 2100 6800 50  0000 L BNN
-F 2 "~" H 2500 6850 50  0001 C CNN
-F 3 "" H 2050 6700 60  0001 C CNN
-	1    2050 6700
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	3850 6700 3850 5950
 Wire Wire Line
@@ -1169,29 +1152,29 @@ Wire Wire Line
 	6450 6900 6700 6900
 Connection ~ 6700 6900
 Wire Wire Line
-	2050 2600 2450 2600
-Wire Wire Line
 	2050 2500 2450 2500
-Text Label 2450 2600 2    60   ~ 0
-CLIP
+Wire Wire Line
+	2050 2700 2450 2700
 Text Label 2450 2500 2    60   ~ 0
+CLIP_1
+Text Label 2450 2700 2    60   ~ 0
 GND
 $Comp
-L PIN_F_4 XS?
+L PIN_F_5 XS?
 U 1 1 552AB154
 P 2050 2300
 AR Path="/530320C3" Ref="XS?"  Part="1" 
 AR Path="/552AB154" Ref="XS2"  Part="1" 
 F 0 "XS2" H 2150 2500 50  0000 L BNN
-F 1 "WF-4" H 2100 2400 50  0000 L BNN
+F 1 "WF-5" H 2100 2400 50  0000 L BNN
 F 2 "~" H 2500 2450 50  0001 C CNN
 F 3 "" H 2050 2300 60  0001 C CNN
 	1    2050 2300
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	2050 2400 2450 2400
-Text Label 2450 2400 2    60   ~ 0
+	2050 2300 2450 2300
+Text Label 2450 2300 2    60   ~ 0
 MU/ST
 $Comp
 L 7815 DA1
@@ -1335,7 +1318,26 @@ Connection ~ 6000 1350
 Connection ~ 6300 2650
 Connection ~ 6300 1350
 Wire Wire Line
-	2050 2300 2450 2300
-Text Label 2450 2300 2    60   ~ 0
+	2050 2400 2450 2400
+Text Label 2450 2400 2    60   ~ 0
 +29V
+Wire Wire Line
+	1950 6250 1950 6700
+Wire Wire Line
+	1950 5550 1950 5950
+Wire Wire Line
+	1950 5950 1850 5950
+Wire Wire Line
+	1850 6250 1950 6250
+Wire Wire Line
+	1850 6050 2150 6050
+Wire Wire Line
+	1850 6150 1950 6150
+Wire Wire Line
+	1950 6150 1950 6050
+Connection ~ 1950 6050
+Wire Wire Line
+	2050 2600 2450 2600
+Text Label 2450 2600 2    60   ~ 0
+CLIP_1
 $EndSCHEMATC

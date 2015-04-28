@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Thu 23 Apr 2015 22:07:28 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Tue 28 Apr 2015 11:42:52 MSK
 
 BeginCmp
 TimeStamp = /552AC2FB;
@@ -60,7 +60,7 @@ BeginCmp
 TimeStamp = /532EEFA4;
 Reference = C9;
 ValeurCmp = 0.1 мк;
-IdModule  = CAPACITOR_K10-17;
+IdModule  = CAPACITOR_CBB21_10_12x6;
 EndCmp
 
 BeginCmp
@@ -193,7 +193,7 @@ BeginCmp
 TimeStamp = /552A8670;
 Reference = C28;
 ValeurCmp = 0.1 мк;
-IdModule  = CAPACITOR_K10-17;
+IdModule  = CAPACITOR_CBB21_10_12x6;
 EndCmp
 
 BeginCmp
@@ -213,8 +213,8 @@ EndCmp
 BeginCmp
 TimeStamp = /552A86B8;
 Reference = C31;
-ValeurCmp = 470мк 50В;
-IdModule  = CAPACITOR_CD263_5.08_D10;
+ValeurCmp = 2200мк 50В;
+IdModule  = CAPACITOR_10_D22;
 EndCmp
 
 BeginCmp
@@ -227,8 +227,8 @@ EndCmp
 BeginCmp
 TimeStamp = /552A86CA;
 Reference = C33;
-ValeurCmp = 470мк 50В;
-IdModule  = CAPACITOR_CD263_5.08_D10;
+ValeurCmp = 2200мк 50В;
+IdModule  = CAPACITOR_10_D22;
 EndCmp
 
 BeginCmp
@@ -277,14 +277,14 @@ BeginCmp
 TimeStamp = /532EEF5B;
 Reference = L1;
 ValeurCmp = 0,7 мкГн;
-IdModule  = RESISTOR_2W;
+IdModule  = INDUCTORS_1_15x8;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A867C;
 Reference = L2;
 ValeurCmp = 0,7 мкГн;
-IdModule  = RESISTOR_2W;
+IdModule  = INDUCTORS_1_15x8;
 EndCmp
 
 BeginCmp
@@ -444,8 +444,8 @@ EndCmp
 BeginCmp
 TimeStamp = /552AB154;
 Reference = XS2;
-ValeurCmp = WF-4;
-IdModule  = WF-4;
+ValeurCmp = WF-5;
+IdModule  = WF-5;
 EndCmp
 
 BeginCmp
@@ -458,15 +458,8 @@ EndCmp
 BeginCmp
 TimeStamp = /530320C3;
 Reference = XS4;
-ValeurCmp = WF-2;
-IdModule  = WF-2;
-EndCmp
-
-BeginCmp
-TimeStamp = /552A8F0F;
-Reference = XS5;
-ValeurCmp = WF-2;
-IdModule  = WF-2;
+ValeurCmp = WF-4;
+IdModule  = WF-4;
 EndCmp
 
 BeginCmp
