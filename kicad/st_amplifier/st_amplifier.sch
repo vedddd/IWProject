@@ -15,7 +15,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "28 apr 2015"
+Date "29 apr 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1339,5 +1339,5 @@ Connection ~ 1950 6050
 Wire Wire Line
 	2050 2600 2450 2600
 Text Label 2450 2600 2    60   ~ 0
-CLIP_1
+CLIP_2
 $EndSCHEMATC
