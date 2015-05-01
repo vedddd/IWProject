@@ -15,7 +15,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "29 apr 2015"
+Date "1 may 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -281,11 +281,11 @@ F 3 "" H 8200 4900 60  0001 C CNN
 	1    8200 4900
 	0    -1   -1   0   
 $EndComp
-Text Label 2500 1850 2    60   ~ 0
--29V
-Text Label 2500 1750 2    60   ~ 0
-GND
 Text Label 2500 1650 2    60   ~ 0
+-29V
+Text Label 2500 1850 2    60   ~ 0
+GND
+Text Label 2500 1750 2    60   ~ 0
 +29V
 $Comp
 L PIN_F_3 XS?
