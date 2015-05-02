@@ -2390,7 +2390,7 @@
   (segment (start 112.395 85.725) (end 112.395 82.55) (width 0.5) (layer Back) (net 5))
   (via (at 115.57 79.375) (size 1.2) (drill 0.8) (layers Front Back) (net 5))
   (segment (start 112.395 82.55) (end 115.57 79.375) (width 0.5) (layer Back) (net 5) (tstamp 5543E261))
-  (segment (start 111.76 90.043) (end 111.76 125.73) (width 0.5) (layer Front) (net 5) (tstamp 5543E02A) (status 800000))
+  (segment (start 111.76 90.043) (end 111.76 125.73) (width 0.5) (layer Front) (net 5) (tstamp 5543E02A))
   (segment (start 112.395 89.408) (end 111.76 90.043) (width 0.5) (layer Front) (net 5) (tstamp 5543E024))
   (segment (start 112.395 85.725) (end 112.395 89.408) (width 0.5) (layer Front) (net 5) (tstamp 5543E023))
   (segment (start 112.395 85.725) (end 112.395 85.725) (width 0.5) (layer Front) (net 5) (tstamp 5543E022))
