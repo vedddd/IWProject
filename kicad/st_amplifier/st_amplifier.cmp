@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sat 02 May 2015 12:40:34 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sun 03 May 2015 13:19:07 MSK
 
 BeginCmp
 TimeStamp = /552AC2FB;
@@ -425,20 +425,6 @@ TimeStamp = /552A8676;
 Reference = R20;
 ValeurCmp = 10;
 IdModule  = RESISTOR_2W;
-EndCmp
-
-BeginCmp
-TimeStamp = /55449D1F;
-Reference = R21;
-ValeurCmp = 220;
-IdModule  = RESISTOR_0.25W;
-EndCmp
-
-BeginCmp
-TimeStamp = /55449FB2;
-Reference = R22;
-ValeurCmp = 220;
-IdModule  = RESISTOR_0.25W;
 EndCmp
 
 BeginCmp
