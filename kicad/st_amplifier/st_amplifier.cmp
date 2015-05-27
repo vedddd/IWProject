@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sun 03 May 2015 13:19:07 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Wed 27 May 2015 09:22:48 MSK
 
 BeginCmp
 TimeStamp = /552AC2FB;
@@ -290,14 +290,14 @@ EndCmp
 BeginCmp
 TimeStamp = /532EE9DE;
 Reference = R1;
-ValeurCmp = 1 к  +/-0.5%;
+ValeurCmp = 2 к +/-0.5%;
 IdModule  = RESISTOR_1W;
 EndCmp
 
 BeginCmp
 TimeStamp = /532EE9CC;
 Reference = R2;
-ValeurCmp = 2 к  +/-0.5%;
+ValeurCmp = 28.7 к +/-0.5%;
 IdModule  = RESISTOR_1W;
 EndCmp
 
@@ -311,7 +311,7 @@ EndCmp
 BeginCmp
 TimeStamp = /552AA729;
 Reference = R4;
-ValeurCmp = 2,7 к;
+ValeurCmp = 100;
 IdModule  = RESISTOR_0.25W;
 EndCmp
 
@@ -325,7 +325,7 @@ EndCmp
 BeginCmp
 TimeStamp = /552A990C;
 Reference = R6;
-ValeurCmp = 47 к +/-0.5%;
+ValeurCmp = 22.1 к +/-0.5%;
 IdModule  = RESISTOR_1W;
 EndCmp
 
@@ -339,7 +339,7 @@ EndCmp
 BeginCmp
 TimeStamp = /552A9247;
 Reference = R8;
-ValeurCmp = 47 к +/-0.5%;
+ValeurCmp = 22.1 к +/-0.5%;
 IdModule  = RESISTOR_1W;
 EndCmp
 
@@ -374,14 +374,14 @@ EndCmp
 BeginCmp
 TimeStamp = /552A86A8;
 Reference = R13;
-ValeurCmp = 1 к +/- 0.5%;
+ValeurCmp = 2 к +/-0.5%;
 IdModule  = RESISTOR_1W;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A86AE;
 Reference = R14;
-ValeurCmp = 2 к +/- 0.5%;
+ValeurCmp = 28.7 к +/-0.5%;
 IdModule  = RESISTOR_1W;
 EndCmp
 
@@ -416,7 +416,7 @@ EndCmp
 BeginCmp
 TimeStamp = /552AA734;
 Reference = R19;
-ValeurCmp = 2,7 к;
+ValeurCmp = 100;
 IdModule  = RESISTOR_0.25W;
 EndCmp
 
