@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Wed 27 May 2015 09:22:48 MSK
+Cmp-Mod V01 Created by PcbNew date = Thu 28 May 2015 11:47:24 MSK
 
 BeginCmp
 TimeStamp = /552AC2FB;
@@ -18,7 +18,7 @@ BeginCmp
 TimeStamp = /552ACA56;
 Reference = C3;
 ValeurCmp = 0.1 мк;
-IdModule  = CAPACITOR_K10-17;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
@@ -39,7 +39,7 @@ BeginCmp
 TimeStamp = /552ACA6C;
 Reference = C6;
 ValeurCmp = 0.1 мк;
-IdModule  = CAPACITOR_K10-17;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
@@ -59,7 +59,7 @@ EndCmp
 BeginCmp
 TimeStamp = /532EEFA4;
 Reference = C9;
-ValeurCmp = 0.1 мк;
+ValeurCmp = 0.047 мк;
 IdModule  = CAPACITOR_CBB21_10_12x6;
 EndCmp
 
@@ -80,15 +80,15 @@ EndCmp
 BeginCmp
 TimeStamp = /552A9913;
 Reference = C12;
-ValeurCmp = 10 п;
-IdModule  = CAPACITOR_K10-17;
+ValeurCmp = 22 п;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A954C;
 Reference = C13;
-ValeurCmp = 10 п;
-IdModule  = CAPACITOR_K10-17;
+ValeurCmp = 22 п;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
@@ -143,22 +143,22 @@ EndCmp
 BeginCmp
 TimeStamp = /5303211D;
 Reference = C21;
-ValeurCmp = 100 п;
-IdModule  = CAPACITOR_K10-17;
+ValeurCmp = 220 п;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /552AAD8D;
 Reference = C22;
 ValeurCmp = 0.1 мк;
-IdModule  = CAPACITOR_K10-17;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /552AAD48;
 Reference = C23;
 ValeurCmp = 0.1 мк;
-IdModule  = CAPACITOR_K10-17;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
@@ -185,14 +185,14 @@ EndCmp
 BeginCmp
 TimeStamp = /552A8F02;
 Reference = C27;
-ValeurCmp = 100 п;
-IdModule  = CAPACITOR_K10-17;
+ValeurCmp = 220 п;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A8670;
 Reference = C28;
-ValeurCmp = 0.1 мк;
+ValeurCmp = 0.047 мк;
 IdModule  = CAPACITOR_CBB21_10_12x6;
 EndCmp
 
@@ -236,6 +236,20 @@ TimeStamp = /552A86C4;
 Reference = C34;
 ValeurCmp = 1 мк;
 IdModule  = CAPACITOR_CBB21_15_16x6;
+EndCmp
+
+BeginCmp
+TimeStamp = /556567B6;
+Reference = C35;
+ValeurCmp = 22 п;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /556567A1;
+Reference = C36;
+ValeurCmp = 22 п;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
@@ -291,14 +305,14 @@ BeginCmp
 TimeStamp = /532EE9DE;
 Reference = R1;
 ValeurCmp = 2 к +/-0.5%;
-IdModule  = RESISTOR_1W;
+IdModule  = SMD1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /532EE9CC;
 Reference = R2;
 ValeurCmp = 28.7 к +/-0.5%;
-IdModule  = RESISTOR_1W;
+IdModule  = SMD1206;
 EndCmp
 
 BeginCmp
@@ -312,7 +326,7 @@ BeginCmp
 TimeStamp = /552AA729;
 Reference = R4;
 ValeurCmp = 100;
-IdModule  = RESISTOR_0.25W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
@@ -326,77 +340,77 @@ BeginCmp
 TimeStamp = /552A990C;
 Reference = R6;
 ValeurCmp = 22.1 к +/-0.5%;
-IdModule  = RESISTOR_1W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /532EF4FF;
 Reference = R7;
 ValeurCmp = 5.1 к;
-IdModule  = RESISTOR_0.25W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A9247;
 Reference = R8;
 ValeurCmp = 22.1 к +/-0.5%;
-IdModule  = RESISTOR_1W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /532EF545;
 Reference = R9;
 ValeurCmp = 22 к;
-IdModule  = RESISTOR_0.25W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /532EF55B;
 Reference = R10;
 ValeurCmp = 22 к;
-IdModule  = RESISTOR_0.25W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /532EF55E;
 Reference = R11;
 ValeurCmp = 1 к;
-IdModule  = RESISTOR_0.25W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /53032164;
 Reference = R12;
 ValeurCmp = 22 к;
-IdModule  = RESISTOR_0.25W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A86A8;
 Reference = R13;
 ValeurCmp = 2 к +/-0.5%;
-IdModule  = RESISTOR_1W;
+IdModule  = SMD1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A86AE;
 Reference = R14;
 ValeurCmp = 28.7 к +/-0.5%;
-IdModule  = RESISTOR_1W;
+IdModule  = SMD1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A9252;
 Reference = R15;
 ValeurCmp = 12 к +/-0.5%;
-IdModule  = RESISTOR_1W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /552A928A;
 Reference = R16;
 ValeurCmp = 12 к +/-0.5%;
-IdModule  = RESISTOR_1W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
@@ -410,14 +424,14 @@ BeginCmp
 TimeStamp = /552A8EFC;
 Reference = R18;
 ValeurCmp = 22 к;
-IdModule  = RESISTOR_0.25W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /552AA734;
 Reference = R19;
 ValeurCmp = 100;
-IdModule  = RESISTOR_0.25W;
+IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
@@ -428,10 +442,73 @@ IdModule  = RESISTOR_2W;
 EndCmp
 
 BeginCmp
+TimeStamp = /556575FE;
+Reference = R21;
+ValeurCmp = 220;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5565738B;
+Reference = R22;
+ValeurCmp = 220;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55657880;
+Reference = R23;
+ValeurCmp = 0;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5565788B;
+Reference = R24;
+ValeurCmp = 0;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5565708C;
+Reference = R25;
+ValeurCmp = 4.7;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /556570A5;
+Reference = R26;
+ValeurCmp = 4.7;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /532EF522;
 Reference = VD1;
 ValeurCmp = 1N4007;
 IdModule  = DO-41;
+EndCmp
+
+BeginCmp
+TimeStamp = /552AB154;
+Reference = XP1;
+ValeurCmp = WF-5;
+IdModule  = WF-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /530320C3;
+Reference = XP2;
+ValeurCmp = WF-3;
+IdModule  = WF-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55656B81;
+Reference = XP3;
+ValeurCmp = WF-3;
+IdModule  = WF-3;
 EndCmp
 
 BeginCmp
@@ -442,29 +519,15 @@ IdModule  = DG126-5.0-03P-14;
 EndCmp
 
 BeginCmp
-TimeStamp = /552AB154;
-Reference = XS2;
-ValeurCmp = WF-5;
-IdModule  = WF-5;
-EndCmp
-
-BeginCmp
 TimeStamp = /532EEEEE;
-Reference = XS3;
+Reference = XS2;
 ValeurCmp = DG126-5.0-02P-14;
 IdModule  = DG126-5.0-02P-14;
 EndCmp
 
 BeginCmp
-TimeStamp = /530320C3;
-Reference = XS4;
-ValeurCmp = WF-4;
-IdModule  = WF-4;
-EndCmp
-
-BeginCmp
 TimeStamp = /552A8688;
-Reference = XS6;
+Reference = XS3;
 ValeurCmp = DG126-5.0-02P-14;
 IdModule  = DG126-5.0-02P-14;
 EndCmp
