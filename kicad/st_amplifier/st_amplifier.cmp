@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew date = Thu 28 May 2015 11:47:24 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Thu 04 Jun 2015 18:16:24 MSK
 
 BeginCmp
 TimeStamp = /552AC2FB;
@@ -253,6 +253,20 @@ IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /55706FB2;
+Reference = C37;
+ValeurCmp = 22 п;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55706D76;
+Reference = C38;
+ValeurCmp = 22 п;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /552AC2BA;
 Reference = DA1;
 ValeurCmp = LM7815;
@@ -311,7 +325,7 @@ EndCmp
 BeginCmp
 TimeStamp = /532EE9CC;
 Reference = R2;
-ValeurCmp = 28.7 к +/-0.5%;
+ValeurCmp = 28 к +/-0.5%;
 IdModule  = SMD1206;
 EndCmp
 
@@ -339,7 +353,7 @@ EndCmp
 BeginCmp
 TimeStamp = /552A990C;
 Reference = R6;
-ValeurCmp = 22.1 к +/-0.5%;
+ValeurCmp = 24 к +/-0.5%;
 IdModule  = SMD0805;
 EndCmp
 
@@ -353,7 +367,7 @@ EndCmp
 BeginCmp
 TimeStamp = /552A9247;
 Reference = R8;
-ValeurCmp = 22.1 к +/-0.5%;
+ValeurCmp = 24 к +/-0.5%;
 IdModule  = SMD0805;
 EndCmp
 
@@ -395,7 +409,7 @@ EndCmp
 BeginCmp
 TimeStamp = /552A86AE;
 Reference = R14;
-ValeurCmp = 28.7 к +/-0.5%;
+ValeurCmp = 28 к +/-0.5%;
 IdModule  = SMD1206;
 EndCmp
 
@@ -452,20 +466,6 @@ BeginCmp
 TimeStamp = /5565738B;
 Reference = R22;
 ValeurCmp = 220;
-IdModule  = SMD0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /55657880;
-Reference = R23;
-ValeurCmp = 0;
-IdModule  = SMD0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5565788B;
-Reference = R24;
-ValeurCmp = 0;
 IdModule  = SMD0805;
 EndCmp
 

@@ -2,11 +2,11 @@
 
   (general
     (links 23)
-    (no_connects 4)
+    (no_connects 0)
     (area 73.315223 61.92558 185.764777 128.206501)
     (thickness 1.6002)
     (drawings 10)
-    (tracks 11)
+    (tracks 29)
     (zones 0)
     (modules 18)
     (nets 8)
@@ -32,7 +32,7 @@
   )
 
   (setup
-    (last_trace_width 1)
+    (last_trace_width 4)
     (user_trace_width 2)
     (user_trace_width 4)
     (user_trace_width 5)
@@ -115,12 +115,12 @@
     (add_net N-000006)
   )
 
-  (module TO220_DIOD_VERT_POZ (layer Front) (tedit 5544E99A) (tstamp 51AC4927)
-    (at 92.71 113.03 180)
+  (module TO220_DIOD_VERT_POZ (layer Front) (tedit 5544EC8E) (tstamp 51AC4927)
+    (at 93.345 113.03 180)
     (descr "Regulateur TO220 serie LM78xx")
     (tags "TR TO220")
     (path /51AC3D01)
-    (fp_text reference VD4 (at 0 -6.985 180) (layer F.SilkS)
+    (fp_text reference VD4 (at 0.127 6.223 180) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_text value MDR10100 (at -3.81 0 270) (layer F.SilkS) hide
@@ -262,12 +262,12 @@
     )
   )
 
-  (module TO220_DIOD_VERT_POZ (layer Front) (tedit 5544E9A5) (tstamp 51AC4921)
-    (at 92.71 79.375 180)
+  (module TO220_DIOD_VERT_POZ (layer Front) (tedit 5544ECA0) (tstamp 51AC4921)
+    (at 93.345 79.375 180)
     (descr "Regulateur TO220 serie LM78xx")
     (tags "TR TO220")
     (path /51AC3BC4)
-    (fp_text reference VD1 (at 0 6.35 180) (layer F.SilkS)
+    (fp_text reference VD1 (at 0 -6.604 180) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_text value MDR10100 (at -3.81 0 270) (layer F.SilkS) hide
@@ -295,12 +295,12 @@
     )
   )
 
-  (module TO220_DIOD_VERT_POZ (layer Front) (tedit 5544E9A9) (tstamp 51AC5AC0)
-    (at 87.63 79.375 180)
+  (module TO220_DIOD_VERT_POZ (layer Front) (tedit 5544EC97) (tstamp 51AC5AC0)
+    (at 88.265 79.375 180)
     (descr "Regulateur TO220 serie LM78xx")
     (tags "TR TO220")
     (path /51AC3CFB)
-    (fp_text reference VD2 (at 3.81 0 270) (layer F.SilkS)
+    (fp_text reference VD2 (at 0 -6.604 180) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_text value MDR10100 (at -3.81 0 270) (layer F.SilkS) hide
@@ -328,12 +328,12 @@
     )
   )
 
-  (module TO220_DIOD_VERT_POZ (layer Front) (tedit 5544E99D) (tstamp 51AC4925)
-    (at 87.63 113.03 180)
+  (module TO220_DIOD_VERT_POZ (layer Front) (tedit 5544EC85) (tstamp 51AC4925)
+    (at 88.265 113.03 180)
     (descr "Regulateur TO220 serie LM78xx")
     (tags "TR TO220")
     (path /51AC3CFE)
-    (fp_text reference VD3 (at 3.81 0 270) (layer F.SilkS)
+    (fp_text reference VD3 (at 0.127 6.35 180) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_text value MDR10100 (at -3.81 0 270) (layer F.SilkS) hide
@@ -634,6 +634,24 @@
   (segment (start 91.44 96.266) (end 109.855 96.266) (width 5) (layer Back) (net 1))
   (segment (start 178.435 91.186) (end 178.435 86.741) (width 4) (layer Front) (net 2))
   (segment (start 178.435 101.346) (end 178.435 105.664) (width 4) (layer Back) (net 3))
+  (segment (start 93.345 76.835) (end 100.965 76.835) (width 4) (layer Back) (net 4) (status 400000))
+  (segment (start 88.265 115.57) (end 86.106 115.57) (width 4) (layer Back) (net 4) (status 400000))
+  (segment (start 100.965 80.137) (end 100.965 76.835) (width 4) (layer Back) (net 4) (tstamp 5544EBF2))
+  (segment (start 100.965 76.835) (end 100.965 68.961) (width 4) (layer Back) (net 4) (tstamp 5544EC27) (status 800000))
+  (segment (start 95.25 85.852) (end 100.965 80.137) (width 4) (layer Back) (net 4) (tstamp 5544EBF0))
+  (segment (start 88.519 85.852) (end 95.25 85.852) (width 4) (layer Back) (net 4) (tstamp 5544EBEF))
+  (segment (start 84.455 89.916) (end 88.519 85.852) (width 4) (layer Back) (net 4) (tstamp 5544EBEA))
+  (segment (start 84.455 113.919) (end 84.455 89.916) (width 4) (layer Back) (net 4) (tstamp 5544EBE9))
+  (segment (start 86.106 115.57) (end 84.455 113.919) (width 4) (layer Back) (net 4) (tstamp 5544EBE7))
+  (segment (start 93.345 115.57) (end 100.965 115.57) (width 4) (layer Front) (net 5) (status 400000))
+  (segment (start 88.265 76.835) (end 86.233 76.835) (width 4) (layer Front) (net 5) (status 400000))
+  (segment (start 100.965 112.522) (end 100.965 115.57) (width 4) (layer Front) (net 5) (tstamp 5544EC07))
+  (segment (start 100.965 115.57) (end 100.965 123.571) (width 4) (layer Front) (net 5) (tstamp 5544EC47) (status 800000))
+  (segment (start 94.869 106.426) (end 100.965 112.522) (width 4) (layer Front) (net 5) (tstamp 5544EC06))
+  (segment (start 86.868 106.426) (end 94.869 106.426) (width 4) (layer Front) (net 5) (tstamp 5544EC03))
+  (segment (start 84.455 104.013) (end 86.868 106.426) (width 4) (layer Front) (net 5) (tstamp 5544EC00))
+  (segment (start 84.455 78.613) (end 84.455 104.013) (width 4) (layer Front) (net 5) (tstamp 5544EBFC))
+  (segment (start 86.233 76.835) (end 84.455 78.613) (width 4) (layer Front) (net 5) (tstamp 5544EBFA))
   (segment (start 100.965 101.981) (end 92.154998 101.981) (width 4) (layer Back) (net 6))
   (segment (start 91.44 101.266002) (end 91.44 101.346) (width 4) (layer Back) (net 6) (tstamp 5544C768))
   (segment (start 92.154998 101.981) (end 91.44 101.266002) (width 4) (layer Back) (net 6) (tstamp 5544C765))
@@ -665,7 +683,7 @@
     (polygon
       (pts
         (xy 180.34 89.281) (xy 176.53 89.281) (xy 173.99 82.931) (xy 155.575 77.851) (xy 119.38 77.851)
-        (xy 110.998 83.82) (xy 94.615 83.82) (xy 94.615 83.82) (xy 86.233 83.82) (xy 86.233 80.01)
+        (xy 110.998 83.82) (xy 94.615 83.82) (xy 94.615 83.82) (xy 86.868 83.82) (xy 86.868 80.01)
         (xy 94.615 80.01) (xy 94.742 80.01) (xy 114.935 67.056) (xy 171.45 67.056) (xy 173.99 69.596)
         (xy 180.467 76.708)
       )
@@ -673,7 +691,7 @@
     (filled_polygon
       (pts
         (xy 180.216021 76.803704) (xy 180.092512 89.031) (xy 176.699258 89.031) (xy 174.176053 82.722987) (xy 155.608851 77.601)
-        (xy 119.300081 77.601) (xy 110.918081 83.57) (xy 94.615 83.57) (xy 86.483 83.57) (xy 86.483 80.26)
+        (xy 119.300081 77.601) (xy 110.918081 83.57) (xy 94.615 83.57) (xy 87.118 83.57) (xy 87.118 80.26)
         (xy 94.615 80.26) (xy 94.815296 80.26) (xy 115.008296 67.306) (xy 171.346447 67.306) (xy 173.809095 69.768649)
         (xy 174.469121 70.493383) (xy 174.829501 71.365569) (xy 176.024142 72.562297) (xy 176.553489 72.782101) (xy 180.216021 76.803704)
       )
@@ -704,7 +722,7 @@
     (polygon
       (pts
         (xy 180.34 103.251) (xy 176.53 103.251) (xy 173.99 109.601) (xy 155.575 114.681) (xy 119.38 114.681)
-        (xy 110.998 108.712) (xy 94.615 108.712) (xy 94.615 108.712) (xy 86.233 108.712) (xy 86.233 112.522)
+        (xy 110.998 108.712) (xy 94.615 108.712) (xy 94.615 108.712) (xy 86.868 108.712) (xy 86.868 112.522)
         (xy 94.615 112.522) (xy 94.742 112.522) (xy 114.935 125.476) (xy 171.45 125.476) (xy 173.99 122.936)
         (xy 180.467 115.824)
       )
@@ -713,7 +731,7 @@
       (pts
         (xy 180.216021 115.728296) (xy 176.55425 119.749063) (xy 176.030431 119.965501) (xy 174.833703 121.160142) (xy 174.468766 122.039005)
         (xy 173.809095 122.763351) (xy 171.346447 125.226) (xy 115.008296 125.226) (xy 94.815296 112.272) (xy 94.615 112.272)
-        (xy 86.483 112.272) (xy 86.483 108.962) (xy 94.615 108.962) (xy 110.918081 108.962) (xy 119.300081 114.931)
+        (xy 87.118 112.272) (xy 87.118 108.962) (xy 94.615 108.962) (xy 110.918081 108.962) (xy 119.300081 114.931)
         (xy 155.608851 114.931) (xy 174.176053 109.809013) (xy 176.699258 103.501) (xy 180.092512 103.501) (xy 180.216021 115.728296)
       )
     )
