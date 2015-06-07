@@ -1,86 +1,86 @@
-Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Mon 03 Jun 2013 12:31:15 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sun 07 Jun 2015 17:47:44 MSK
 
 BeginCmp
 TimeStamp = /51AC3F31;
 Reference = C1;
-ValeurCmp = 10000_мк_50_В;
+ValeurCmp = 10000 мк 63 В;
 IdModule  = CAPACITOR_CD294;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC4B9B;
 Reference = C2;
-ValeurCmp = 10000_мк_50_В;
+ValeurCmp = 10000 мк 63 В;
 IdModule  = CAPACITOR_CD294;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3F2D;
 Reference = C3;
-ValeurCmp = 0.22_мк_400_В;
+ValeurCmp = 0.47мк 400В;
 IdModule  = K73-17;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3F7D;
 Reference = C4;
-ValeurCmp = 10000_мк_50_В;
+ValeurCmp = 10000 мк 63 В;
 IdModule  = CAPACITOR_CD294;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC4B9C;
 Reference = C5;
-ValeurCmp = 10000_мк_50_В;
+ValeurCmp = 10000 мк 63 В;
 IdModule  = CAPACITOR_CD294;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3F7E;
 Reference = C6;
-ValeurCmp = 0.22_мк_400_В;
+ValeurCmp = 0.47мк 400В;
 IdModule  = K73-17;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3C99;
 Reference = FU1;
-ValeurCmp = 10_A;
+ValeurCmp = 10 A;
 IdModule  = FU_PTF15B;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3D29;
 Reference = FU2;
-ValeurCmp = 10_A;
+ValeurCmp = 10 A;
 IdModule  = FU_PTF15B;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3BC4;
 Reference = VD1;
-ValeurCmp = MDR10100;
+ValeurCmp = MBR10100;
 IdModule  = TO220_DIOD_VERT_POZ;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3CFB;
 Reference = VD2;
-ValeurCmp = MDR10100;
+ValeurCmp = MBR10100;
 IdModule  = TO220_DIOD_VERT_POZ;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3CFE;
 Reference = VD3;
-ValeurCmp = MDR10100;
+ValeurCmp = MBR10100;
 IdModule  = TO220_DIOD_VERT_POZ;
 EndCmp
 
 BeginCmp
 TimeStamp = /51AC3D01;
 Reference = VD4;
-ValeurCmp = MDR10100;
+ValeurCmp = MBR10100;
 IdModule  = TO220_DIOD_VERT_POZ;
 EndCmp
 
@@ -92,8 +92,22 @@ IdModule  = DG126-5.0-03P-14;
 EndCmp
 
 BeginCmp
-TimeStamp = /51AC3EE1;
+TimeStamp = /55744C00;
 Reference = XS2;
+ValeurCmp = DG126-5.0-03P-14;
+IdModule  = DG126-5.0-03P-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /51AC3EE1;
+Reference = XS3;
+ValeurCmp = DG126-5.0-03P-14;
+IdModule  = DG126-5.0-03P-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /55744C06;
+Reference = XS4;
 ValeurCmp = DG126-5.0-03P-14;
 IdModule  = DG126-5.0-03P-14;
 EndCmp

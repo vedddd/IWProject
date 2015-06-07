@@ -1,0 +1,199 @@
+EESchema Schematic File Version 2
+LIBS:LFbutton
+LIBS:LFcapitors
+LIBS:LFcomponents
+LIBS:LFconnectors
+LIBS:LFdiod
+LIBS:LFpower
+LIBS:LFresistor
+LIBS:LFtransformator
+LIBS:LFtransistor
+LIBS:emc_filter-cache
+EELAYER 27 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "7 jun 2015"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	3850 3900 3850 4600
+Wire Wire Line
+	3850 3900 3600 3900
+Wire Wire Line
+	3850 4600 4050 4600
+Wire Wire Line
+	3600 3800 3850 3800
+Wire Wire Line
+	3850 3800 3850 3100
+Wire Wire Line
+	3850 3100 4050 3100
+$Comp
+L PIN_F_2 XS?
+U 1 1 51AC3EE1
+P 7450 3900
+AR Path="/51AC3C4F" Ref="XS?"  Part="1" 
+AR Path="/51AC3EE1" Ref="XS2"  Part="1" 
+F 0 "XS2" H 7700 3450 50  0000 L BNN
+F 1 "DG126-5.0-02P-14" H 7400 3550 50  0000 L BNN
+F 2 "~" H 7900 4050 50  0001 C CNN
+F 3 "" H 7450 3900 60  0001 C CNN
+	1    7450 3900
+	1    0    0    1   
+$EndComp
+$Comp
+L PROTECTOR FU2
+U 1 1 51AC3D29
+P 4050 4600
+F 0 "FU2" H 4000 4750 60  0000 C CNN
+F 1 "3 A" H 4300 4750 60  0000 C CNN
+F 2 "" H 4050 4600 60  0001 C CNN
+F 3 "" H 4050 4600 60  0001 C CNN
+	1    4050 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L PROTECTOR FU1
+U 1 1 51AC3C99
+P 4050 3100
+F 0 "FU1" H 4000 3250 60  0000 C CNN
+F 1 "3 A" H 4300 3250 60  0000 C CNN
+F 2 "" H 4050 3100 60  0001 C CNN
+F 3 "" H 4050 3100 60  0001 C CNN
+	1    4050 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L PIN_F_2 XS1
+U 1 1 51AC3C4F
+P 3600 3800
+F 0 "XS1" H 3750 4000 50  0000 L BNN
+F 1 "DG126-5.0-02P-14" H 3400 3900 50  0000 L BNN
+F 2 "~" H 4050 3950 50  0001 C CNN
+F 3 "" H 3600 3800 60  0001 C CNN
+	1    3600 3800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RESISTOR_2W R1
+U 1 1 5569F0F5
+P 6800 3950
+F 0 "R1" V 7000 3750 71  0000 C CNN
+F 1 "470 к" V 6850 3700 71  0000 C CNN
+F 2 "" H 6800 3950 60  0000 C CNN
+F 3 "" H 6800 3950 60  0000 C CNN
+	1    6800 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7250 3100 7250 3800
+Wire Wire Line
+	7250 3800 7450 3800
+Wire Wire Line
+	7450 3900 7250 3900
+Wire Wire Line
+	7250 4600 7250 3900
+Wire Wire Line
+	6800 3100 6800 3700
+Wire Wire Line
+	6800 4600 6800 3950
+$Comp
+L CAPITORS C2
+U 1 1 5569F24E
+P 6350 3950
+F 0 "C2" H 6500 3800 71  0000 C CNN
+F 1 "0.22 мк 400 В" H 6550 3700 71  0000 C CNN
+F 2 "" H 6350 3950 60  0001 C CNN
+F 3 "" H 6350 3950 60  0001 C CNN
+	1    6350 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6350 3700 6350 3100
+Connection ~ 6800 3100
+Wire Wire Line
+	6350 4600 6350 3950
+Connection ~ 6800 4600
+$Comp
+L CAPITORS C1
+U 1 1 5569F2CA
+P 5100 3950
+F 0 "C1" H 5200 3700 71  0000 C CNN
+F 1 "0.22 мк 400 В" H 5250 3800 71  0000 C CNN
+F 2 "" H 5100 3950 60  0001 C CNN
+F 3 "" H 5100 3950 60  0001 C CNN
+	1    5100 3950
+	0    1    -1   0   
+$EndComp
+$Comp
+L VARISTOR RU1
+U 1 1 5569F537
+P 4550 3950
+F 0 "RU1" H 4675 4225 71  0000 C CNN
+F 1 "B72210S271K101" H 4700 4100 71  0000 C CNN
+F 2 "" H 4550 3950 60  0000 C CNN
+F 3 "" H 4550 3950 60  0000 C CNN
+	1    4550 3950
+	0    -1   -1   0   
+$EndComp
+Connection ~ 6350 3100
+Connection ~ 6350 4600
+Wire Wire Line
+	4550 3100 4550 3700
+Wire Wire Line
+	4300 4600 5300 4600
+Wire Wire Line
+	4550 4600 4550 3950
+Wire Wire Line
+	5100 3100 5100 3700
+Connection ~ 4550 3100
+Wire Wire Line
+	5100 4600 5100 3950
+Connection ~ 4550 4600
+Text Notes 2500 3900 0    60   ~ 0
+     AC\n250 V 50 Hz
+$Comp
+L CHOKES_PL LL1
+U 1 1 5569FF94
+P 6000 3750
+F 0 "LL1" V 5800 3400 60  0000 C CNN
+F 1 "B82724J2402N1" V 5900 3450 60  0000 C CNN
+F 2 "" H 6000 3750 60  0000 C CNN
+F 3 "" H 6000 3750 60  0000 C CNN
+	1    6000 3750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5400 3750 5300 3750
+Connection ~ 5100 3100
+Wire Wire Line
+	4300 3100 5300 3100
+Wire Wire Line
+	5300 3100 5300 3750
+Wire Wire Line
+	5400 3950 5300 3950
+Wire Wire Line
+	5300 3950 5300 4600
+Connection ~ 5100 4600
+Wire Wire Line
+	6000 3750 6150 3750
+Wire Wire Line
+	6150 3750 6150 3100
+Wire Wire Line
+	6000 3950 6150 3950
+Wire Wire Line
+	6150 3950 6150 4600
+Text Notes 7500 7425 0    60   ~ 0
+EMC power lines rev. 0
+Wire Wire Line
+	6150 3100 7250 3100
+Wire Wire Line
+	6150 4600 7250 4600
+$EndSCHEMATC

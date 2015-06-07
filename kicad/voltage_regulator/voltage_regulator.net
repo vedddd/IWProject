@@ -1,102 +1,179 @@
-# EESchema Netlist Version 1.1 created  Mon 03 Jun 2013 12:49:40 MSK
-(
- ( /51AC4B9C $noname  C5 10000_мк_50_В {Lib=CAPITORS_ELECTROLYTIC}
-  (    1 /GND )
-  (    2 /VCC- )
- )
- ( /51AC4B9B $noname  C2 10000_мк_50_В {Lib=CAPITORS_ELECTROLYTIC}
-  (    1 /VCC+ )
-  (    2 /GND )
- )
- ( /51AC3F7E $noname  C6 0.22_мк_400_В {Lib=CAPITORS}
-  (    1 /VCC- )
-  (    2 /GND )
- )
- ( /51AC3F7D $noname  C4 10000_мк_50_В {Lib=CAPITORS_ELECTROLYTIC}
-  (    1 /GND )
-  (    2 /VCC- )
- )
- ( /51AC3F31 $noname  C1 10000_мк_50_В {Lib=CAPITORS_ELECTROLYTIC}
-  (    1 /VCC+ )
-  (    2 /GND )
- )
- ( /51AC3F2D $noname  C3 0.22_мк_400_В {Lib=CAPITORS}
-  (    1 /GND )
-  (    2 /VCC+ )
- )
- ( /51AC3EE1 $noname  XS2 DG126-5.0-03P-14 {Lib=PIN_F_3}
-  (    1 /VCC- )
-  (    2 /GND )
-  (    3 /VCC+ )
- )
- ( /51AC3D29 $noname  FU2 10_A {Lib=PROTECTOR}
-  (    1 N-000005 )
-  (    2 N-000004 )
- )
- ( /51AC3D01 $noname  VD4 MDR10100 {Lib=SHOTTKY_DIODE}
-  (    1 /VCC- )
-  (    2 N-000004 )
- )
- ( /51AC3CFE $noname  VD3 MDR10100 {Lib=SHOTTKY_DIODE}
-  (    1 /VCC- )
-  (    2 N-000003 )
- )
- ( /51AC3CFB $noname  VD2 MDR10100 {Lib=SHOTTKY_DIODE}
-  (    1 N-000004 )
-  (    2 /VCC+ )
- )
- ( /51AC3C99 $noname  FU1 10_A {Lib=PROTECTOR}
-  (    1 N-000006 )
-  (    2 N-000003 )
- )
- ( /51AC3C4F $noname  XS1 DG126-5.0-03P-14 {Lib=PIN_F_3}
-  (    1 N-000006 )
-  (    2 /GND )
-  (    3 N-000005 )
- )
- ( /51AC3BC4 $noname  VD1 MDR10100 {Lib=SHOTTKY_DIODE}
-  (    1 N-000003 )
-  (    2 /VCC+ )
- )
-)
-*
-{ Pin List by Nets
-Net 1 "/VCC+" "VCC+"
- C2 1
- XS2 3
- VD2 2
- VD1 2
- C3 2
- C1 1
-Net 2 "/VCC-" "VCC-"
- VD4 1
- C5 2
- XS2 1
- C6 1
- C4 2
- VD3 1
-Net 3 "" ""
- VD1 1
- VD3 2
- FU1 2
-Net 4 "" ""
- VD2 1
- VD4 2
- FU2 2
-Net 5 "" ""
- XS1 3
- FU2 1
-Net 6 "" ""
- XS1 1
- FU1 1
-Net 7 "/GND" "GND"
- XS1 2
- XS2 2
- C5 1
- C2 2
- C3 1
- C1 2
- C6 2
- C4 1
-}
-#End
+(export (version D)
+  (design
+    (source /home/vdn/git/IWProject/kicad/voltage_regulator/voltage_regulator.sch)
+    (date "Sun 07 Jun 2015 17:47:37 MSK")
+    (tool "eeschema (25-Oct-2014 BZR 4029)-stable"))
+  (components
+    (comp (ref C5)
+      (value "10000 мк 63 В")
+      (libsource (lib LFcapitors) (part CAPITORS_ELECTROLYTIC))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC4B9C))
+    (comp (ref C2)
+      (value "10000 мк 63 В")
+      (libsource (lib LFcapitors) (part CAPITORS_ELECTROLYTIC))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC4B9B))
+    (comp (ref C6)
+      (value "0.47мк 400В")
+      (libsource (lib LFcapitors) (part CAPITORS))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3F7E))
+    (comp (ref C4)
+      (value "10000 мк 63 В")
+      (libsource (lib LFcapitors) (part CAPITORS_ELECTROLYTIC))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3F7D))
+    (comp (ref C1)
+      (value "10000 мк 63 В")
+      (libsource (lib LFcapitors) (part CAPITORS_ELECTROLYTIC))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3F31))
+    (comp (ref C3)
+      (value "0.47мк 400В")
+      (libsource (lib LFcapitors) (part CAPITORS))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3F2D))
+    (comp (ref XS3)
+      (value DG126-5.0-03P-14)
+      (libsource (lib LFconnectors) (part PIN_F_3))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3EE1))
+    (comp (ref FU2)
+      (value "10 A")
+      (libsource (lib LFcomponents) (part PROTECTOR))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3D29))
+    (comp (ref VD4)
+      (value MBR10100)
+      (libsource (lib LFdiod) (part SHOTTKY_DIODE))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3D01))
+    (comp (ref VD3)
+      (value MBR10100)
+      (libsource (lib LFdiod) (part SHOTTKY_DIODE))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3CFE))
+    (comp (ref VD2)
+      (value MBR10100)
+      (libsource (lib LFdiod) (part SHOTTKY_DIODE))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3CFB))
+    (comp (ref FU1)
+      (value "10 A")
+      (libsource (lib LFcomponents) (part PROTECTOR))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3C99))
+    (comp (ref XS1)
+      (value DG126-5.0-03P-14)
+      (libsource (lib LFconnectors) (part PIN_F_3))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3C4F))
+    (comp (ref VD1)
+      (value MBR10100)
+      (libsource (lib LFdiod) (part SHOTTKY_DIODE))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 51AC3BC4))
+    (comp (ref XS2)
+      (value DG126-5.0-03P-14)
+      (libsource (lib LFconnectors) (part PIN_F_3))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 55744C00))
+    (comp (ref XS4)
+      (value DG126-5.0-03P-14)
+      (libsource (lib LFconnectors) (part PIN_F_3))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 55744C06)))
+  (libparts
+    (libpart (lib LFcapitors) (part CAPITORS_ELECTROLYTIC)
+      (fields
+        (field (name Reference) C)
+        (field (name Value) CAPITORS_ELECTROLYTIC))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib LFcapitors) (part CAPITORS)
+      (fields
+        (field (name Reference) C)
+        (field (name Value) CAPITORS))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib LFcomponents) (part PROTECTOR)
+      (fields
+        (field (name Reference) FU)
+        (field (name Value) PROTECTOR)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib LFconnectors) (part PIN_F_3)
+      (fields
+        (field (name Reference) XS)
+        (field (name Value) PIN_F_3)
+        (field (name Footprint) ~))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))
+        (pin (num 3) (name ~) (type passive))))
+    (libpart (lib LFdiod) (part SHOTTKY_DIODE)
+      (fields
+        (field (name Reference) VD)
+        (field (name Value) SHOTTKY_DIODE))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive)))))
+  (libraries
+    (library (logical LFconnectors)
+      (uri ../../../kicad-components/library_kicad/LFconnectors.lib))
+    (library (logical LFcomponents)
+      (uri ../../../kicad-components/library_kicad/LFcomponents.lib))
+    (library (logical LFcapitors)
+      (uri ../../../kicad-components/library_kicad/LFcapitors.lib))
+    (library (logical LFdiod)
+      (uri ../../../kicad-components/library_kicad/LFdiod.lib)))
+  (nets
+    (net (code 1) (name "")
+      (node (ref FU1) (pin 2))
+      (node (ref VD1) (pin 1))
+      (node (ref VD3) (pin 2)))
+    (net (code 2) (name "")
+      (node (ref XS1) (pin 1))
+      (node (ref FU1) (pin 1)))
+    (net (code 3) (name /VCC-)
+      (node (ref C6) (pin 1))
+      (node (ref XS4) (pin 3))
+      (node (ref XS4) (pin 2))
+      (node (ref XS4) (pin 1))
+      (node (ref C5) (pin 2))
+      (node (ref VD3) (pin 1))
+      (node (ref VD4) (pin 1))
+      (node (ref C4) (pin 2)))
+    (net (code 4) (name /GND)
+      (node (ref C5) (pin 1))
+      (node (ref XS3) (pin 1))
+      (node (ref XS3) (pin 2))
+      (node (ref XS1) (pin 2))
+      (node (ref C2) (pin 2))
+      (node (ref XS3) (pin 3))
+      (node (ref C6) (pin 2))
+      (node (ref C4) (pin 1))
+      (node (ref C1) (pin 2))
+      (node (ref C3) (pin 1)))
+    (net (code 5) (name /VCC+)
+      (node (ref C2) (pin 1))
+      (node (ref XS2) (pin 2))
+      (node (ref VD2) (pin 2))
+      (node (ref C3) (pin 2))
+      (node (ref C1) (pin 1))
+      (node (ref XS2) (pin 3))
+      (node (ref XS2) (pin 1))
+      (node (ref VD1) (pin 2)))
+    (net (code 6) (name "")
+      (node (ref XS1) (pin 3))
+      (node (ref FU2) (pin 1)))
+    (net (code 7) (name "")
+      (node (ref VD2) (pin 1))
+      (node (ref VD4) (pin 2))
+      (node (ref FU2) (pin 2)))))

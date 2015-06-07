@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sun 07 Jun 2015 18:40:48 MSK
+
+BeginCmp
+TimeStamp = /5569F2CA;
+Reference = C1;
+ValeurCmp = 0.22 мк 400 В;
+IdModule  = CAPACITOR_15_18x7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5569F24E;
+Reference = C2;
+ValeurCmp = 0.22 мк 400 В;
+IdModule  = CAPACITOR_15_18x7;
+EndCmp
+
+BeginCmp
+TimeStamp = /51AC3C99;
+Reference = FU1;
+ValeurCmp = 3 A;
+IdModule  = FU_PTF15B;
+EndCmp
+
+BeginCmp
+TimeStamp = /51AC3D29;
+Reference = FU2;
+ValeurCmp = 3 A;
+IdModule  = FU_PTF15B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5569FF94;
+Reference = LL1;
+ValeurCmp = B82724J2402N1;
+IdModule  = INDUCTOR_B82724J;
+EndCmp
+
+BeginCmp
+TimeStamp = /5569F0F5;
+Reference = R1;
+ValeurCmp = 470 к;
+IdModule  = RESISTOR_2W;
+EndCmp
+
+BeginCmp
+TimeStamp = /5569F537;
+Reference = RU1;
+ValeurCmp = B72210S271K101;
+IdModule  = VARISTOR_11_20x5;
+EndCmp
+
+BeginCmp
+TimeStamp = /51AC3C4F;
+Reference = XS1;
+ValeurCmp = DG126-5.0-02P-14;
+IdModule  = DG126-5.0-02P-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /51AC3EE1;
+Reference = XS2;
+ValeurCmp = DG126-5.0-02P-14;
+IdModule  = DG126-5.0-02P-14;
+EndCmp
+
+EndListe
