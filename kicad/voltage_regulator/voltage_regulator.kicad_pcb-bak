@@ -123,7 +123,7 @@
     (fp_text reference VD4 (at 0.127 6.223 180) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
-    (fp_text value MDR10100 (at -3.81 0 270) (layer F.SilkS) hide
+    (fp_text value MBR10100 (at -3.81 0 270) (layer F.SilkS) hide
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_line (start 1.905 -5.08) (end 2.54 -5.08) (layer F.SilkS) (width 0.381))
@@ -270,7 +270,7 @@
     (fp_text reference VD1 (at 0 -6.604 180) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
-    (fp_text value MDR10100 (at -3.81 0 270) (layer F.SilkS) hide
+    (fp_text value MBR10100 (at -3.81 0 270) (layer F.SilkS) hide
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_line (start 1.905 -5.08) (end 2.54 -5.08) (layer F.SilkS) (width 0.381))
@@ -303,7 +303,7 @@
     (fp_text reference VD2 (at 0 -6.604 180) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
-    (fp_text value MDR10100 (at -3.81 0 270) (layer F.SilkS) hide
+    (fp_text value MBR10100 (at -3.81 0 270) (layer F.SilkS) hide
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_line (start 1.905 -5.08) (end 2.54 -5.08) (layer F.SilkS) (width 0.381))
@@ -336,7 +336,7 @@
     (fp_text reference VD3 (at 0.127 6.35 180) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
-    (fp_text value MDR10100 (at -3.81 0 270) (layer F.SilkS) hide
+    (fp_text value MBR10100 (at -3.81 0 270) (layer F.SilkS) hide
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_line (start 1.905 -5.08) (end 2.54 -5.08) (layer F.SilkS) (width 0.381))
@@ -517,7 +517,7 @@
     (fp_text reference C4 (at 12.065 -12.7 360) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     )
-    (fp_text value "10000 мк 50 В" (at 0 17.78 270) (layer F.SilkS) hide
+    (fp_text value "10000 мк 63 В" (at 0 17.78 270) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     )
     (fp_line (start -11.176 -1.27) (end -11.176 1.27) (layer F.SilkS) (width 0.381))
@@ -541,7 +541,7 @@
     (fp_text reference C5 (at 12.065 -12.7 360) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     )
-    (fp_text value "10000 мк 50 В" (at 0 17.78 270) (layer F.SilkS) hide
+    (fp_text value "10000 мк 63 В" (at 0 17.78 270) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     )
     (fp_line (start -11.176 -1.27) (end -11.176 1.27) (layer F.SilkS) (width 0.381))
@@ -565,7 +565,7 @@
     (fp_text reference C1 (at -12.065 -12.065 360) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     )
-    (fp_text value "10000 мк 50 В" (at 0 17.78 270) (layer F.SilkS) hide
+    (fp_text value "10000 мк 63 В" (at 0 17.78 270) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     )
     (fp_line (start -11.176 -1.27) (end -11.176 1.27) (layer F.SilkS) (width 0.381))
@@ -589,7 +589,7 @@
     (fp_text reference C2 (at -12.065 -12.065 360) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     )
-    (fp_text value "10000 мк 50 В" (at 0 17.78 270) (layer F.SilkS) hide
+    (fp_text value "10000 мк 63 В" (at 0 17.78 270) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
     )
     (fp_line (start -11.176 -1.27) (end -11.176 1.27) (layer F.SilkS) (width 0.381))
