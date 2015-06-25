@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sun 14 Jun 2015 19:23:47 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Wed 17 Jun 2015 11:05:53 MSK
 
 BeginCmp
 TimeStamp = /53031B81;
@@ -155,6 +155,13 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
+TimeStamp = /557DB4E0;
+Reference = C23;
+ValeurCmp = 22 п;
+IdModule  = ;
+EndCmp
+
+BeginCmp
 TimeStamp = /53031C38;
 Reference = DA1;
 ValeurCmp = LM7815;
@@ -190,9 +197,16 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
+TimeStamp = /557F2BFB;
+Reference = FU1;
+ValeurCmp = 0.25 А;
+IdModule  = ;
+EndCmp
+
+BeginCmp
 TimeStamp = /557D65A6;
 Reference = R1;
-ValeurCmp = 120 к;
+ValeurCmp = 10 к;
 IdModule  = SMD0805;
 EndCmp
 
@@ -241,7 +255,7 @@ EndCmp
 BeginCmp
 TimeStamp = /557D6DD4;
 Reference = R8;
-ValeurCmp = 50 к;
+ValeurCmp = 47 к;
 IdModule  = ;
 EndCmp
 
@@ -262,21 +276,21 @@ EndCmp
 BeginCmp
 TimeStamp = /557D6DEC;
 Reference = R11;
-ValeurCmp = 30 к;
+ValeurCmp = 1 к;
 IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D65AD;
 Reference = R12;
-ValeurCmp = 30 к;
+ValeurCmp = 10 к;
 IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D6DF2;
 Reference = R13;
-ValeurCmp = 50 к;
+ValeurCmp = 47 к;
 IdModule  = ;
 EndCmp
 
@@ -325,14 +339,14 @@ EndCmp
 BeginCmp
 TimeStamp = /557D81E4;
 Reference = R20;
-ValeurCmp = 50 к;
+ValeurCmp = 47 к;
 IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D81D2;
 Reference = R21;
-ValeurCmp = 50 к;
+ValeurCmp = 47 к;
 IdModule  = ;
 EndCmp
 
@@ -353,14 +367,14 @@ EndCmp
 BeginCmp
 TimeStamp = /557D91EB;
 Reference = R24;
-ValeurCmp = 50 к;
+ValeurCmp = 47 к;
 IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /557D91D9;
 Reference = R25;
-ValeurCmp = 50 к;
+ValeurCmp = 47 к;
 IdModule  = ;
 EndCmp
 
@@ -372,9 +386,9 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /557D94FD;
+TimeStamp = /557DB0F4;
 Reference = R27;
-ValeurCmp = 10 к;
+ValeurCmp = 47 к;
 IdModule  = ;
 EndCmp
 
