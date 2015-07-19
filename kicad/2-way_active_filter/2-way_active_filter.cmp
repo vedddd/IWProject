@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Thu 09 Jul 2015 11:54:11 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sun 19 Jul 2015 12:25:48 MSK
 
 BeginCmp
 TimeStamp = /558AA938;
@@ -849,107 +849,100 @@ EndCmp
 
 BeginCmp
 TimeStamp = /557D49EA;
-Reference = XS1;
+Reference = XP1;
 ValeurCmp = WF-3;
 IdModule  = WF-3;
-EndCmp
-
-BeginCmp
-TimeStamp = /558BCB0D;
-Reference = XS2;
-ValeurCmp = WF-4;
-IdModule  = WF-4;
 EndCmp
 
 BeginCmp
 TimeStamp = /55895583;
-Reference = XS3;
+Reference = XP2;
 ValeurCmp = WF-3;
 IdModule  = WF-3;
 EndCmp
 
 BeginCmp
-TimeStamp = /5303196E;
-Reference = XS4;
-ValeurCmp = DG126-5.0-02P-14;
-IdModule  = DG126-5.0-02P-14;
-EndCmp
-
-BeginCmp
 TimeStamp = /558BD5F7;
-Reference = XS5;
-ValeurCmp = WF-5;
-IdModule  = WF-5;
+Reference = XP3;
+ValeurCmp = WF-6;
+IdModule  = WF-6;
 EndCmp
 
 BeginCmp
 TimeStamp = /55892DE3;
-Reference = XS6;
+Reference = XP4;
 ValeurCmp = PLS-3;
 IdModule  = PIN_ARRAY_3x1;
 EndCmp
 
 BeginCmp
 TimeStamp = /5589343C;
-Reference = XS7;
+Reference = XP5;
 ValeurCmp = PLS-2;
 IdModule  = PIN_ARRAY_2x1;
 EndCmp
 
 BeginCmp
 TimeStamp = /5589367A;
-Reference = XS8;
+Reference = XP6;
 ValeurCmp = PLS-2;
 IdModule  = PIN_ARRAY_2x1;
 EndCmp
 
 BeginCmp
 TimeStamp = /55892DD8;
-Reference = XS9;
+Reference = XP7;
 ValeurCmp = PLS-3;
 IdModule  = PIN_ARRAY_3x1;
 EndCmp
 
 BeginCmp
 TimeStamp = /557DEBAD;
-Reference = XS10;
+Reference = XP8;
 ValeurCmp = WF-4;
 IdModule  = WF-4;
 EndCmp
 
 BeginCmp
-TimeStamp = /557DF38E;
-Reference = XS11;
+TimeStamp = /558BCB0D;
+Reference = XP10;
 ValeurCmp = WF-4;
 IdModule  = WF-4;
 EndCmp
 
 BeginCmp
 TimeStamp = /55912278;
-Reference = XS12;
+Reference = XP11;
 ValeurCmp = WF-4;
 IdModule  = WF-4;
 EndCmp
 
 BeginCmp
+TimeStamp = /5303196E;
+Reference = XS1;
+ValeurCmp = DG126-5.0-02P-14;
+IdModule  = DG126-5.0-02P-14;
+EndCmp
+
+BeginCmp
 TimeStamp = /559E3EAF;
-Reference = XS13;
+Reference = XS2;
 ValeurCmp = DG126-5.0-03P-14;
 IdModule  = DG126-5.0-03P-14;
 EndCmp
 
 BeginCmp
 TimeStamp = /559E39B2;
-Reference = XS14;
+Reference = XS3;
 ValeurCmp = DG126-5.0-03P-14;
 IdModule  = DG126-5.0-03P-14;
 EndCmp
 
 BeginCmp
-TimeStamp = /559E3E9B;
-Reference = XS15;
-ValeurCmp = DG126-5.0-03P-14;
-IdModule  = DG126-5.0-03P-14;
+TimeStamp = /557DF38E;
+Reference = XS9;
+ValeurCmp = WF-4;
+IdModule  = WF-4;
 EndCmp
 
 EndListe
