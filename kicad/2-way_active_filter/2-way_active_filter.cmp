@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sun 19 Jul 2015 12:25:48 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sat 12 Sep 2015 13:14:26 MSK
 
 BeginCmp
 TimeStamp = /558AA938;
@@ -218,17 +218,17 @@ IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /55832C62;
+TimeStamp = /55F3FDEC;
 Reference = C32;
-ValeurCmp = 2.2 мк;
-IdModule  = CAPACITOR_MKP4_27_5_32x11;
+ValeurCmp = 0.047 мк;
+IdModule  = CAPACITOR_FKP2_5_7x6.5;
 EndCmp
 
 BeginCmp
-TimeStamp = /55832C68;
+TimeStamp = /55F3FE16;
 Reference = C33;
-ValeurCmp = 2.2 мк;
-IdModule  = CAPACITOR_MKP4_27_5_32x11;
+ValeurCmp = 0.047 мк;
+IdModule  = CAPACITOR_FKP2_5_7x6.5;
 EndCmp
 
 BeginCmp
@@ -309,17 +309,45 @@ IdModule  = SMD0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /55F3FE1C;
+Reference = C45;
+ValeurCmp = 0.047 мк;
+IdModule  = CAPACITOR_FKP2_5_7x6.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F3FE28;
+Reference = C46;
+ValeurCmp = 0.047 мк;
+IdModule  = CAPACITOR_FKP2_5_7x6.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F3FE2E;
+Reference = C47;
+ValeurCmp = 0.047 мк;
+IdModule  = CAPACITOR_FKP2_5_7x6.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F3FE34;
+Reference = C48;
+ValeurCmp = 0.047 мк;
+IdModule  = CAPACITOR_FKP2_5_7x6.5;
+EndCmp
+
+BeginCmp
 TimeStamp = /53031C38;
 Reference = DA1;
 ValeurCmp = L7815CV;
-IdModule  = TO220_VERT_POZ;
+IdModule  = TO220_RAD_16.5x15;
 EndCmp
 
 BeginCmp
 TimeStamp = /53031C42;
 Reference = DA2;
 ValeurCmp = L7915CV;
-IdModule  = TO220_VERT_POZ;
+IdModule  = TO220_RAD_16.5x15;
 EndCmp
 
 BeginCmp
@@ -340,14 +368,14 @@ BeginCmp
 TimeStamp = /557D6D9C;
 Reference = DA5;
 ValeurCmp = LME49740MA;
-IdModule  = SOIC16;
+IdModule  = SOIC14;
 EndCmp
 
 BeginCmp
 TimeStamp = /5589399E;
 Reference = DA6;
 ValeurCmp = LME49740MA;
-IdModule  = SOIC16;
+IdModule  = SOIC14;
 EndCmp
 
 BeginCmp
