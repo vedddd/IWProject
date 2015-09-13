@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sat 12 Sep 2015 13:14:26 MSK
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Sun 13 Sep 2015 13:18:29 MSK
 
 BeginCmp
 TimeStamp = /558AA938;
@@ -932,6 +932,13 @@ IdModule  = WF-4;
 EndCmp
 
 BeginCmp
+TimeStamp = /557DF38E;
+Reference = XP9;
+ValeurCmp = WF-4;
+IdModule  = WF-4;
+EndCmp
+
+BeginCmp
 TimeStamp = /558BCB0D;
 Reference = XP10;
 ValeurCmp = WF-4;
@@ -964,13 +971,6 @@ TimeStamp = /559E39B2;
 Reference = XS3;
 ValeurCmp = DG126-5.0-03P-14;
 IdModule  = DG126-5.0-03P-14;
-EndCmp
-
-BeginCmp
-TimeStamp = /557DF38E;
-Reference = XS9;
-ValeurCmp = WF-4;
-IdModule  = WF-4;
 EndCmp
 
 EndListe

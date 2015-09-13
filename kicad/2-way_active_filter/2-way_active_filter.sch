@@ -15,7 +15,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "12 sep 2015"
+Date "13 sep 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -703,8 +703,8 @@ L PIN_M_4 XS?
 U 1 1 557DF38E
 P 21200 5400
 AR Path="/530320C3" Ref="XS?"  Part="1" 
-AR Path="/557DF38E" Ref="XS9"  Part="1" 
-F 0 "XS9" H 21250 5600 50  0000 L BNN
+AR Path="/557DF38E" Ref="XP9"  Part="1" 
+F 0 "XP9" H 21250 5600 50  0000 L BNN
 F 1 "WF-4" H 21250 5500 50  0000 L BNN
 F 2 "~" H 21650 5550 50  0001 C CNN
 F 3 "" H 21200 5400 60  0001 C CNN

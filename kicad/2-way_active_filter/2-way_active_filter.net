@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/vdn/git/IWProject/kicad/2-way_active_filter/2-way_active_filter.sch)
-    (date "Sat 12 Sep 2015 16:37:21 MSK")
+    (date "Sun 13 Sep 2015 13:17:51 MSK")
     (tool "eeschema (25-Oct-2014 BZR 4029)-stable"))
   (components
     (comp (ref R3)
@@ -269,7 +269,7 @@
       (libsource (lib LFconnectors) (part PIN_M_4))
       (sheetpath (names /) (tstamps /))
       (tstamp 557DEBAD))
-    (comp (ref XS9)
+    (comp (ref XP9)
       (value WF-4)
       (libsource (lib LFconnectors) (part PIN_M_4))
       (sheetpath (names /) (tstamps /))
@@ -700,17 +700,17 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 55F3FE34)))
   (libparts
-    (libpart (lib LFcapitors) (part CAPITORS)
-      (fields
-        (field (name Reference) C)
-        (field (name Value) CAPITORS))
-      (pins
-        (pin (num 1) (name ~) (type passive))
-        (pin (num 2) (name ~) (type passive))))
     (libpart (lib LFcapitors) (part CAPITORS_ELECTROLYTIC)
       (fields
         (field (name Reference) C)
         (field (name Value) CAPITORS_ELECTROLYTIC))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib LFcapitors) (part CAPITORS)
+      (fields
+        (field (name Reference) C)
+        (field (name Value) CAPITORS))
       (pins
         (pin (num 1) (name ~) (type passive))
         (pin (num 2) (name ~) (type passive))))
@@ -835,6 +835,13 @@
         (pin (num 4) (name ~) (type passive))
         (pin (num 5) (name ~) (type passive))
         (pin (num 6) (name ~) (type passive))))
+    (libpart (lib LFdiod) (part SHOTTKY_DIODE)
+      (fields
+        (field (name Reference) VD)
+        (field (name Value) SHOTTKY_DIODE))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
     (libpart (lib LFresistor) (part RESISTOR)
       (description "Ampli Op 3 state out")
       (docs AmpliOp.sch)
@@ -843,13 +850,6 @@
         (field (name Value) RESISTOR)
         (field (name Footprint) ~)
         (field (name Datasheet) ~))
-      (pins
-        (pin (num 1) (name ~) (type passive))
-        (pin (num 2) (name ~) (type passive))))
-    (libpart (lib LFdiod) (part SHOTTKY_DIODE)
-      (fields
-        (field (name Reference) VD)
-        (field (name Value) SHOTTKY_DIODE))
       (pins
         (pin (num 1) (name ~) (type passive))
         (pin (num 2) (name ~) (type passive))))
@@ -879,16 +879,16 @@
         (pin (num 11) (name ~) (type input))
         (pin (num 12) (name ~) (type input)))))
   (libraries
+    (library (logical LFconnectors)
+      (uri ../../../kicad-components/library_kicad/LFconnectors.lib))
     (library (logical LFcapitors)
       (uri ../../../kicad-components/library_kicad/LFcapitors.lib))
     (library (logical LFcomponents)
       (uri ../../../kicad-components/library_kicad/LFcomponents.lib))
-    (library (logical LFconnectors)
-      (uri ../../../kicad-components/library_kicad/LFconnectors.lib))
-    (library (logical LFresistor)
-      (uri ../../../kicad-components/library_kicad/LFresistor.lib))
     (library (logical LFdiod)
       (uri ../../../kicad-components/library_kicad/LFdiod.lib))
+    (library (logical LFresistor)
+      (uri ../../../kicad-components/library_kicad/LFresistor.lib))
     (library (logical LFtransformator)
       (uri ../../../kicad-components/library_kicad/LFtransformator.lib)))
   (nets
@@ -966,7 +966,7 @@
       (node (ref R32) (pin 2)))
     (net (code 18) (name "")
       (node (ref R41) (pin 2))
-      (node (ref XS9) (pin 1)))
+      (node (ref XP9) (pin 1)))
     (net (code 19) (name "")
       (node (ref XP8) (pin 1))
       (node (ref R40) (pin 2)))
@@ -1181,9 +1181,9 @@
       (node (ref R33) (pin 2))
       (node (ref R36) (pin 1))
       (node (ref C26) (pin 2))
-      (node (ref XS9) (pin 3))
-      (node (ref XS9) (pin 2))
-      (node (ref XS9) (pin 4))
+      (node (ref XP9) (pin 3))
+      (node (ref XP9) (pin 2))
+      (node (ref XP9) (pin 4))
       (node (ref XP8) (pin 2))
       (node (ref XP8) (pin 3))
       (node (ref C27) (pin 2)))
