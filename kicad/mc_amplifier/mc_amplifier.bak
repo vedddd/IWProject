@@ -36,7 +36,7 @@ Connection ~ 5500 3200
 Wire Wire Line
 	5500 3700 5500 3950
 Text Label 5750 3200 2    60   ~ 0
-+9V
++10V
 Text Label 5500 3950 1    60   ~ 0
 GND
 Wire Wire Line
