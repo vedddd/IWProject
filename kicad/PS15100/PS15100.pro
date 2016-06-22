@@ -1,6 +1,6 @@
-update=Sun 12 Apr 2015 17:20:24 MSK
+update=Ср 22 июн 2016 23:11:27
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetITyp=0
@@ -39,18 +39,14 @@ LibName4=../../../kicad-components/mod_kicad/LFtransformator
 [eeschema]
 version=1
 LibDir=
-NetFmtName=
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
-LibName1=../../../kicad-components/library_kicad/LFbutton
-LibName2=../../../kicad-components/library_kicad/LFcapitors
-LibName3=../../../kicad-components/library_kicad/LFcomponents
-LibName4=../../../kicad-components/library_kicad/LFconnectors
-LibName5=../../../kicad-components/library_kicad/LFdiod
-LibName6=../../../kicad-components/library_kicad/LFpower
-LibName7=../../../kicad-components/library_kicad/LFresistor
-LibName8=../../../kicad-components/library_kicad/LFtransformator
-LibName9=../../../kicad-components/library_kicad/LFtransistor
+LibName1=PS15100-rescue
+LibName2=../../../kicad-components/library_kicad/LFbutton
+LibName3=../../../kicad-components/library_kicad/LFcapitors
+LibName4=../../../kicad-components/library_kicad/LFcomponents
+LibName5=../../../kicad-components/library_kicad/LFconnectors
+LibName6=../../../kicad-components/library_kicad/LFdiod
+LibName7=../../../kicad-components/library_kicad/LFpower
+LibName8=../../../kicad-components/library_kicad/LFresistor
+LibName9=../../../kicad-components/library_kicad/LFtransformator
+LibName10=../../../kicad-components/library_kicad/LFtransistor

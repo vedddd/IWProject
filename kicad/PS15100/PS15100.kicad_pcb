@@ -32,7 +32,7 @@
   )
 
   (setup
-    (last_trace_width 4)
+    (last_trace_width 1)
     (user_trace_width 2)
     (user_trace_width 4)
     (user_trace_width 5)
@@ -65,7 +65,7 @@
       (layerselection 0x010f0_80000001)
       (usegerberextensions true)
       (excludeedgelayer true)
-      (linewidth 0.150000)
+      (linewidth 0.100000)
       (plotframeref false)
       (viasonmask false)
       (mode 1)
@@ -79,8 +79,8 @@
       (plotreference true)
       (plotvalue true)
       (plotinvisibletext false)
-      (padsonsilk true)
-      (subtractmaskfromsilk true)
+      (padsonsilk false)
+      (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
       (drillshape 0)
@@ -168,7 +168,7 @@
     )
   )
 
-  (module 1_pin (layer Front) (tedit 57668E9C) (tstamp 51AC5623)
+  (module 1_pin (layer Front) (tedit 5767A284) (tstamp 51AC5623)
     (at 206.756 116.84)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -179,11 +179,11 @@
     (fp_text value P*** (at 0 -1.524) (layer F.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
-    (pad 1 thru_hole circle (at -3.556 1.928) (size 6 6) (drill 3.2) (layers *.Cu *.Mask F.SilkS)
+    (pad 1 thru_hole circle (at -4.556 1.928) (size 6 6) (drill 3.2) (layers *.Cu *.Mask F.SilkS)
       (solder_mask_margin 1.99898) (clearance 1.00076))
   )
 
-  (module 1_pin (layer Front) (tedit 57668E77) (tstamp 51AC5620)
+  (module 1_pin (layer Front) (tedit 5767A27C) (tstamp 51AC5620)
     (at 206.248 52.324)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -194,11 +194,11 @@
     (fp_text value P*** (at 0 -1.524) (layer F.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
-    (pad 1 thru_hole circle (at -3.048 1.444) (size 6 6) (drill 3.2) (layers *.Cu *.Mask F.SilkS)
+    (pad 1 thru_hole circle (at -4.048 1.444) (size 6 6) (drill 3.2) (layers *.Cu *.Mask F.SilkS)
       (solder_mask_margin 1.99898) (clearance 1.00076))
   )
 
-  (module 1_pin (layer Front) (tedit 57668E8F) (tstamp 51AC561D)
+  (module 1_pin (layer Front) (tedit 5767A272) (tstamp 51AC561D)
     (at 71.628 119.38)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -209,7 +209,7 @@
     (fp_text value P*** (at 10.16 4.572) (layer F.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
-    (pad 1 thru_hole circle (at 9.572 -0.612) (size 6 6) (drill 3.2) (layers *.Cu *.Mask F.SilkS)
+    (pad 1 thru_hole circle (at 10.572 -0.612) (size 6 6) (drill 3.2) (layers *.Cu *.Mask F.SilkS)
       (solder_mask_margin 1.99898) (clearance 1.00076))
   )
 
@@ -291,7 +291,7 @@
     )
   )
 
-  (module 1_pin (layer Front) (tedit 57668E61) (tstamp 51AC55F6)
+  (module 1_pin (layer Front) (tedit 5767A267) (tstamp 51AC55F6)
     (at 77.216 51.816)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags DEV)
@@ -302,7 +302,7 @@
     (fp_text value P*** (at 4.064 -2.032) (layer F.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
-    (pad 1 thru_hole circle (at 3.984 1.952) (size 6 6) (drill 3.2) (layers *.Cu *.Mask F.SilkS)
+    (pad 1 thru_hole circle (at 4.984 1.952) (size 6 6) (drill 3.2) (layers *.Cu *.Mask F.SilkS)
       (solder_mask_margin 1.99898) (clearance 1.00076))
   )
 
@@ -439,11 +439,11 @@
       (net 3 /VCC-))
   )
 
-  (module LFcomponents:TO220_RAD_16.5x15_VD (layer Front) (tedit 56B75F8A) (tstamp 56B76AC4)
+  (module LFcomponents:TO220_RAD_16.5x15_VD (layer Front) (tedit 576AF1B5) (tstamp 56B76AC4)
     (at 108.204 59.182)
     (tags "TR TO220")
     (path /56B75911)
-    (fp_text reference VD1 (at 5.588 -5.842) (layer F.SilkS)
+    (fp_text reference VD1 (at 5.334 -5.588) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_text value MBR15100 (at 4.064 0 90) (layer F.SilkS) hide
@@ -476,11 +476,11 @@
     )
   )
 
-  (module LFcomponents:TO220_RAD_16.5x15_VD (layer Front) (tedit 56B75F91) (tstamp 56B76AD9)
+  (module LFcomponents:TO220_RAD_16.5x15_VD (layer Front) (tedit 576AF1A7) (tstamp 56B76AD9)
     (at 108.204 76.962)
     (tags "TR TO220")
     (path /56B75B22)
-    (fp_text reference VD2 (at 5.588 -6.096) (layer F.SilkS)
+    (fp_text reference VD2 (at 5.334 -5.588) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_text value MBR15100 (at 4.064 0 90) (layer F.SilkS) hide
@@ -513,11 +513,11 @@
     )
   )
 
-  (module LFcomponents:TO220_RAD_16.5x15_VD (layer Front) (tedit 56B75F9D) (tstamp 56B76B03)
+  (module LFcomponents:TO220_RAD_16.5x15_VD (layer Front) (tedit 576AF1D9) (tstamp 56B76B03)
     (at 108.204 113.538)
     (tags "TR TO220")
     (path /56B75C4C)
-    (fp_text reference VD4 (at 5.588 -5.842) (layer F.SilkS)
+    (fp_text reference VD4 (at 5.334 -5.588) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_text value MBR15100 (at 4.064 0 90) (layer F.SilkS) hide
@@ -630,11 +630,11 @@
       (net 3 /VCC-))
   )
 
-  (module IWcomponents:TO220_RAD_16.5x15_VD (layer Front) (tedit 56B73B33) (tstamp 56B76AEE)
+  (module IWcomponents:TO220_RAD_16.5x15_VD (layer Front) (tedit 576AF194) (tstamp 56B76AEE)
     (at 108.204 95.758)
     (tags "TR TO220")
     (path /56B75C46)
-    (fp_text reference VD3 (at -5.715 -9.017) (layer F.SilkS)
+    (fp_text reference VD3 (at 5.334 -5.588) (layer F.SilkS)
       (effects (font (size 1.524 1.016) (thickness 0.2032)))
     )
     (fp_text value MBR15100 (at -3.81 0 90) (layer F.SilkS) hide
@@ -667,10 +667,10 @@
     )
   )
 
-  (gr_line (start 76.2 123.768) (end 208.2 123.768) (angle 90) (layer Edge.Cuts) (width 0.381) (tstamp 57668E1D))
-  (gr_line (start 208.2 48.768) (end 208.2 123.768) (angle 90) (layer Edge.Cuts) (width 0.381) (tstamp 57668E0C))
-  (gr_line (start 76.2 48.768) (end 76.2 123.768) (angle 90) (layer Edge.Cuts) (width 0.381))
-  (gr_line (start 76.2 48.768) (end 208.2 48.768) (angle 90) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 77.2 123.768) (end 207.2 123.768) (angle 90) (layer Edge.Cuts) (width 0.381) (tstamp 57668E1D))
+  (gr_line (start 207.2 48.768) (end 207.2 123.768) (angle 90) (layer Edge.Cuts) (width 0.381) (tstamp 57668E0C))
+  (gr_line (start 77.2 48.768) (end 77.2 123.768) (angle 90) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 77.2 48.768) (end 207.2 48.768) (angle 90) (layer Edge.Cuts) (width 0.381))
   (gr_text AC (at 81.788 96.266) (layer F.SilkS) (tstamp 5544BB40)
     (effects (font (size 2.032 1.524) (thickness 0.3048)))
   )
@@ -691,10 +691,10 @@
   )
 
   (segment (start 81.788 86.36) (end 202.438 86.36) (width 4) (layer Back) (net 1))
-  (segment (start 99.695 76.835) (end 99.695 76.962) (width 2) (layer Back) (net 2) (tstamp 5766BE14) (status C00000))
+  (segment (start 99.695 76.835) (end 99.695 76.962) (width 2) (layer Back) (net 2) (tstamp 5766BE14))
   (segment (start 91.948 77.978) (end 85.09 77.978) (width 4) (layer Back) (net 4))
   (segment (start 85.09 77.978) (end 81.788 81.28) (width 4) (layer Back) (net 4) (tstamp 5766BB02))
-  (segment (start 99.695 95.758) (end 99.568 95.758) (width 2) (layer Front) (net 5) (status C00000))
+  (segment (start 99.695 95.758) (end 99.568 95.758) (width 2) (layer Front) (net 5))
   (segment (start 91.948 94.488) (end 84.836 94.488) (width 4) (layer Back) (net 6))
   (segment (start 84.836 94.488) (end 81.788 91.44) (width 4) (layer Back) (net 6) (tstamp 5766BB08))
 
