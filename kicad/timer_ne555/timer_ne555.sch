@@ -1,0 +1,363 @@
+EESchema Schematic File Version 2
+LIBS:LFbutton
+LIBS:LFcapitors
+LIBS:LFcomponents
+LIBS:LFconnectors
+LIBS:LFdiod
+LIBS:LFpower
+LIBS:LFresistor
+LIBS:LFtransformator
+LIBS:LFtransistor
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L NE555 DA1
+U 1 1 58A0BAD7
+P 4750 3350
+F 0 "DA1" H 5250 3500 60  0000 C CNN
+F 1 "NE555" H 5250 3400 60  0000 C CNN
+F 2 "" H 4750 3350 60  0000 C CNN
+F 3 "" H 4750 3350 60  0000 C CNN
+	1    4750 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L RESISTOR_TRIMMING R3
+U 1 1 58A0BF6C
+P 3950 4000
+F 0 "R3" V 4150 4300 71  0000 C CNN
+F 1 "1 М" V 4050 4300 71  0000 C CNN
+F 2 "" H 3950 4000 60  0000 C CNN
+F 3 "" H 3950 4000 60  0000 C CNN
+	1    3950 4000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4250 3450 4450 3450
+Text Label 4250 3450 0    60   ~ 0
+GND
+Wire Wire Line
+	4250 3750 4450 3750
+Text Label 4250 3750 0    60   ~ 0
+VCC
+Wire Wire Line
+	4150 3650 4450 3650
+Wire Wire Line
+	4150 3100 6750 3100
+Wire Wire Line
+	6750 3100 6950 3100
+$Comp
+L RESISTOR_0_125W R2
+U 1 1 58A0C1BA
+P 3950 3450
+F 0 "R2" V 4150 3650 71  0000 C CNN
+F 1 "1 к" V 4050 3650 71  0000 C CNN
+F 2 "" H 3950 3450 60  0000 C CNN
+F 3 "" H 3950 3450 60  0000 C CNN
+	1    3950 3450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3850 3750 3850 3650
+Wire Wire Line
+	3850 3650 3950 3650
+Wire Wire Line
+	3950 3450 3950 3650
+Wire Wire Line
+	3950 3650 3950 3750
+Connection ~ 3950 3650
+$Comp
+L CAPITORS_ELECTROLYTIC C1
+U 1 1 58A0C453
+P 3950 4300
+F 0 "C1" H 4100 4600 71  0000 C CNN
+F 1 "4700 мк 16 В" H 4100 4500 71  0000 C CNN
+F 2 "" H 3950 4300 60  0000 C CNN
+F 3 "" H 3950 4300 60  0000 C CNN
+	1    3950 4300
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	3950 4000 3950 4100
+Wire Wire Line
+	3950 4100 3950 4300
+Text Label 3950 3000 3    60   ~ 0
+VCC
+Wire Wire Line
+	3950 3200 3950 3000
+Wire Wire Line
+	6100 3550 6200 3550
+Wire Wire Line
+	6200 3550 6200 3650
+Wire Wire Line
+	6200 3650 6200 4100
+Wire Wire Line
+	6200 3650 6100 3650
+Wire Wire Line
+	6200 4100 3950 4100
+Connection ~ 6200 3650
+Connection ~ 3950 4100
+Wire Wire Line
+	3950 4550 3950 4750
+Text Label 3950 4750 1    60   ~ 0
+GND
+$Comp
+L CAPITORS C3
+U 1 1 58A0CA02
+P 6350 3900
+F 0 "C3" H 6650 4000 71  0000 C CNN
+F 1 "0.01 мк" H 6550 4100 71  0000 C CNN
+F 2 "" H 6350 3900 60  0000 C CNN
+F 3 "" H 6350 3900 60  0000 C CNN
+	1    6350 3900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6350 4150 6350 4350
+Text Label 6350 4350 1    60   ~ 0
+GND
+Wire Wire Line
+	6100 3750 6350 3750
+Wire Wire Line
+	6350 3750 6750 3750
+Wire Wire Line
+	6350 3750 6350 3900
+$Comp
+L RESISTOR_0_125W R7
+U 1 1 58A0CC71
+P 6750 4450
+F 0 "R7" V 6950 4250 71  0000 C CNN
+F 1 "10 к" V 6850 4250 71  0000 C CNN
+F 2 "" H 6750 4450 60  0000 C CNN
+F 3 "" H 6750 4450 60  0000 C CNN
+	1    6750 4450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RESISTOR_0_125W R6
+U 1 1 58A0CD4C
+P 6750 4100
+F 0 "R6" V 6950 3900 71  0000 C CNN
+F 1 "10 к" V 6850 3900 71  0000 C CNN
+F 2 "" H 6750 4100 60  0000 C CNN
+F 3 "" H 6750 4100 60  0000 C CNN
+	1    6750 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RESISTOR_0_125W R5
+U 1 1 58A0CD76
+P 6750 3650
+F 0 "R5" V 6950 3450 71  0000 C CNN
+F 1 "10 к" V 6850 3450 71  0000 C CNN
+F 2 "" H 6750 3650 60  0000 C CNN
+F 3 "" H 6750 3650 60  0000 C CNN
+	1    6750 3650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6750 4450 6750 4700
+Text Label 6750 4700 1    60   ~ 0
+GND
+Wire Wire Line
+	6750 3650 6750 3750
+Wire Wire Line
+	6750 3750 6750 3850
+Connection ~ 6350 3750
+Connection ~ 6750 3750
+Text Label 6750 3200 3    60   ~ 0
+VCC
+Wire Wire Line
+	6750 3400 6750 3200
+Wire Wire Line
+	6750 4200 6750 4100
+$Comp
+L RESISTOR_0_125W R4
+U 1 1 58A0D228
+P 6750 3000
+F 0 "R4" V 6950 3250 71  0000 C CNN
+F 1 "10 к" V 6850 3250 71  0000 C CNN
+F 2 "" H 6750 3000 60  0000 C CNN
+F 3 "" H 6750 3000 60  0000 C CNN
+	1    6750 3000
+	0    -1   -1   0   
+$EndComp
+Text Label 6750 2550 3    60   ~ 0
+VCC
+Wire Wire Line
+	6750 2750 6750 2550
+Wire Wire Line
+	6750 3100 6750 3000
+$Comp
+L RESISTOR_0_125W R8
+U 1 1 58A0D31C
+P 6950 3100
+F 0 "R8" H 7050 3350 71  0000 C CNN
+F 1 "1 к" H 7050 3250 71  0000 C CNN
+F 2 "" H 6950 3100 60  0000 C CNN
+F 3 "" H 6950 3100 60  0000 C CNN
+	1    6950 3100
+	1    0    0    -1  
+$EndComp
+Connection ~ 6750 3100
+Wire Wire Line
+	7200 3100 7550 3100
+$Comp
+L PIN_M_2 XP2
+U 1 1 58A0D573
+P 3300 3550
+F 0 "XP2" H 3500 3650 50  0000 L BNN
+F 1 "WF-2" H 3500 3300 50  0000 L BNN
+F 2 "" H 3750 3700 50  0001 C CNN
+F 3 "" H 3300 3550 60  0000 C CNN
+	1    3300 3550
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 3550 3400 3550
+Wire Wire Line
+	3400 3550 4450 3550
+Text Label 3400 3900 1    60   ~ 0
+GND
+Wire Wire Line
+	3400 3550 3400 3300
+Connection ~ 3400 3550
+$Comp
+L RESISTOR_0_125W R1
+U 1 1 58A0D8B0
+P 3400 3300
+F 0 "R1" V 3600 3500 71  0000 C CNN
+F 1 "10 к" V 3500 3500 71  0000 C CNN
+F 2 "" H 3400 3300 60  0000 C CNN
+F 3 "" H 3400 3300 60  0000 C CNN
+	1    3400 3300
+	0    -1   -1   0   
+$EndComp
+Text Label 3400 2850 3    60   ~ 0
+VCC
+Wire Wire Line
+	3400 3050 3400 2850
+Wire Wire Line
+	3300 3650 3400 3650
+Wire Wire Line
+	3400 3650 3400 3900
+Text Notes 2000 3700 0    60   ~ 0
+К кнопке запуска\n     таймера
+Wire Wire Line
+	4150 3650 4150 3100
+$Comp
+L PIN_M_2 XP1
+U 1 1 58A0E178
+P 3300 2350
+F 0 "XP1" H 3500 2450 50  0000 L BNN
+F 1 "~" H 3500 2100 50  0000 L BNN
+F 2 "" H 3750 2500 50  0001 C CNN
+F 3 "" H 3300 2350 60  0000 C CNN
+	1    3300 2350
+	-1   0    0    -1  
+$EndComp
+Text Notes 1800 2500 0    60   ~ 0
+К источнику питания\n   от 5 В  до 18 В
+Text Label 3500 2350 2    60   ~ 0
+VCC
+Wire Wire Line
+	3300 2350 3500 2350
+Text Label 3500 2450 2    60   ~ 0
+GND
+Wire Wire Line
+	3300 2450 3500 2450
+Wire Wire Line
+	6100 3450 6200 3450
+Wire Wire Line
+	6200 3450 6450 3450
+Text Label 6450 3450 2    60   ~ 0
+VCC
+$Comp
+L CAPITORS C2
+U 1 1 58A0E478
+P 6200 2800
+F 0 "C2" V 6250 2500 71  0000 C CNN
+F 1 "0.1 мк" V 6350 2500 71  0000 C CNN
+F 2 "" H 6200 2800 60  0000 C CNN
+F 3 "" H 6200 2800 60  0000 C CNN
+	1    6200 2800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6200 3050 6200 3450
+Connection ~ 6200 3450
+Wire Wire Line
+	6200 2600 6200 2800
+Text Label 6200 2600 3    60   ~ 0
+GND
+$Comp
+L MMBT5551 VT1
+U 1 1 58A0E726
+P 7550 3100
+F 0 "VT1" H 7450 3000 71  0000 C CNN
+F 1 "MMBT5551" H 7400 2850 71  0000 C CNN
+F 2 "" H 7550 3100 60  0000 C CNN
+F 3 "" H 7550 3100 60  0000 C CNN
+	1    7550 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7750 3200 7750 3700
+Text Label 7750 3700 1    60   ~ 0
+GND
+$Comp
+L DIODE VD1
+U 1 1 58A0EA00
+P 7550 2800
+F 0 "VD1" H 7700 3050 71  0000 C CNN
+F 1 "1N4007" H 7700 2950 71  0000 C CNN
+F 2 "" H 7550 2800 60  0000 C CNN
+F 3 "" H 7550 2800 60  0000 C CNN
+	1    7550 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7550 2900 7750 2900
+Wire Wire Line
+	7750 2900 7950 2900
+Wire Wire Line
+	7750 2900 7750 3000
+Wire Wire Line
+	7550 2900 7550 2800
+Connection ~ 7750 2900
+Text Label 7550 2300 3    60   ~ 0
+VCC
+Wire Wire Line
+	7550 2500 7550 2300
+Text Label 7750 2700 0    60   ~ 0
+VCC
+Wire Wire Line
+	7750 2700 7950 2700
+$Comp
+L PIN_M_3 XP3
+U 1 1 58A0EE08
+P 7950 2700
+F 0 "XP3" H 8150 2800 50  0000 L BNN
+F 1 "~" H 8150 2450 50  0000 L BNN
+F 2 "" H 8400 2850 50  0001 C CNN
+F 3 "" H 7950 2700 60  0000 C CNN
+	1    7950 2700
+	1    0    0    -1  
+$EndComp
+Text Notes 8400 2900 0    60   ~ 0
+К управляющей\nобмотеке реле
+Text Notes 1700 6550 0    60   ~ 0
+Время срабатывания реле расчитывается по формуле:\nT = 1.1 * C1 * (R2+R3), [сек]\n\nесли (R2 + R3) = 5.1 кОм - Т = 26,5 сек,\nесли (R2 + R3) = 50 кОм  - Т = 4,5 мин,\nесли (R2 + R3) = 120 кОм - Т = 10 мин,\nесли (R2 + R3) = 360 кОм - Т = 34 мин,\nесли (R2 + R3) = 1 МОм   - Т = 1.5 часа
+$EndSCHEMATC
