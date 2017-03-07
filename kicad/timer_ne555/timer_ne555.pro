@@ -1,4 +1,4 @@
-update=Вс 12 фев 2017 22:15:13
+update=Вт 07 мар 2017 21:48:11
 version=1
 last_client=kicad
 [pcbnew]
@@ -38,3 +38,13 @@ LibName6=/home/vdn/git/kicad-components/library_kicad/LFpower
 LibName7=/home/vdn/git/kicad-components/library_kicad/LFresistor
 LibName8=/home/vdn/git/kicad-components/library_kicad/LFtransformator
 LibName9=/home/vdn/git/kicad-components/library_kicad/LFtransistor
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
