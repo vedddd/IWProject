@@ -280,8 +280,8 @@ Wire Wire Line
 Wire Wire Line
 	7050 3450 7050 3550
 Wire Wire Line
-	7050 3550 7050 4050
-Text Label 7050 4050 1    60   ~ 0
+	7050 3550 7050 4100
+Text Label 7050 4100 1    60   ~ 0
 GND
 Connection ~ 7050 3550
 Text Label 7350 2850 2    60   ~ 0
@@ -294,7 +294,7 @@ L PIN_F_3 XS3
 U 1 1 55462C0D
 P 8650 2850
 F 0 "XS3" H 8800 3050 50  0000 L BNN
-F 1 "Neutrik NC3FD-L1" H 8600 2950 50  0000 L BNN
+F 1 "WF-3" H 8750 2950 50  0000 L BNN
 F 2 "~" H 9100 3000 50  0001 C CNN
 F 3 "" H 8650 2850 60  0000 C CNN
 	1    8650 2850
@@ -313,7 +313,7 @@ L PIN_F_2 XS4
 U 1 1 55462D16
 P 8650 4750
 F 0 "XS4" H 8800 4950 50  0000 L BNN
-F 1 "BNC-BJ" H 8700 4850 50  0000 L BNN
+F 1 "WF-2" H 8700 4850 50  0000 L BNN
 F 2 "~" H 9100 4900 50  0001 C CNN
 F 3 "" H 8650 4750 60  0000 C CNN
 	1    8650 4750
@@ -321,10 +321,10 @@ F 3 "" H 8650 4750 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	8650 3050 8550 3050
-Text Notes 9200 3000 0    60   ~ 0
-К микрофонному усилителю
-Text Notes 9200 4850 0    60   ~ 0
-К осциллографу
+Text Notes 9150 3000 0    60   ~ 0
+К разъёму микрофона Neutrik NC3FD-L1
+Text Notes 9150 4850 0    60   ~ 0
+К разъёму осциллографа BNC-BJ
 $Comp
 L DIODE_LIGHT VD5
 U 1 1 55462DB4
