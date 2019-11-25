@@ -1,0 +1,862 @@
+193132933190077
+IWcomponents
+ALPS_EC11_push
+8 pins DIL package, elliptical pads
+DIL
+0
+7
+7
+IWcomponents
+CAPACITOR_5.08_D13
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_10_D22
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_10_D30
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_10_D36
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_15_18x7
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_0511
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CBB21_10_12x6
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CBB21_15_16x6
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CBB21_20_24x11
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CD263_2.54_D6.3
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CD263_5.08_D10
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_FKP2_5_7x6.5
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_K10-17
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_MKP4_27_5_32x11
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+DIP_4
+8 pins DIL package, elliptical pads
+DIL
+0
+4
+4
+IWcomponents
+DIP_6
+8 pins DIL package, elliptical pads
+DIL
+0
+6
+6
+IWcomponents
+DIP_8
+8 pins DIL package, elliptical pads
+DIL
+0
+8
+8
+IWcomponents
+DIP_14
+24 pins DIL package, elliptical pads
+DIL
+0
+14
+14
+IWcomponents
+DIP_24
+24 pins DIL package, elliptical pads
+DIL
+0
+24
+24
+IWcomponents
+DO-41
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+2
+2
+IWcomponents
+Electron_3296W
+Condensateur e = 1 pas
+C
+0
+3
+3
+IWcomponents
+FU_PTF15B
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+HC-49SM
+
+
+0
+2
+2
+IWcomponents
+INDUCTORS_1_15x8
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+K73-17
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+KC168B
+Condensateur e = 1 pas
+C
+0
+2
+2
+IWcomponents
+MULTIWATT15
+MULTIWATT 15 LEAD
+MULTIWATT 15 LEAD
+0
+15
+15
+IWcomponents
+NSOP8
+
+
+0
+8
+8
+IWcomponents
+OEP_N
+
+
+0
+4
+4
+IWcomponents
+P10LU-0515ZLF
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+6
+6
+IWcomponents
+PSA12-11
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+18
+18
+IWcomponents
+Q_49U3HMS&
+
+
+0
+2
+2
+IWcomponents
+RESISTOR_0.5W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RESISTOR_0.25W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RESISTOR_1W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RESISTOR_2W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RESISTOR_10W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+SDR0604
+
+CMS SM
+0
+2
+2
+IWcomponents
+SDR0805
+
+CMS SM
+0
+2
+2
+IWcomponents
+SIM900D
+47
+
+0
+52
+48
+IWcomponents
+SIM_ATOM010050030119
+
+
+0
+10
+7
+IWcomponents
+SMA
+
+
+0
+2
+2
+IWcomponents
+SMC
+
+
+0
+2
+2
+IWcomponents
+SOD-123FL
+Connecteur Bus AT ISA 16 bits
+CONN BUS ISA
+0
+2
+2
+IWcomponents
+SOD80C
+
+SOT23_5
+0
+2
+2
+IWcomponents
+SOD110
+
+SOT23_5
+0
+2
+2
+IWcomponents
+SOT_23
+Module CMS SOT23 Transistore EBC
+CMS SOT
+0
+3
+3
+IWcomponents
+TO220_DIOD_VERT_POZ
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+2
+2
+IWcomponents
+TO220_RAD_16.5x15
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+4
+4
+IWcomponents
+TO220_RAD_16.5x15_VD
+
+TR TO220
+0
+4
+4
+IWcomponents
+TO220_VERT_POZ
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+3
+3
+IWcomponents
+TRIL-12VDC
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+8
+8
+IWcomponents
+VARISTOR_11_20x5
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWconnectors
+1_pin
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+IWconnectors
+1pin_SMD
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+IWconnectors
+AWG12-2
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWconnectors
+CONN_USB-B
+Connecteur USB type B
+USB
+0
+6
+6
+IWconnectors
+DG126-5.0-02P-14
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWconnectors
+DG126-5.0-03P-14
+Bornier d'alimentation 2 pins
+DEV
+0
+3
+3
+IWconnectors
+DS-210mm
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+IWconnectors
+DS-261
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+IWconnectors
+FCI-10029065
+
+
+0
+26
+22
+IWconnectors
+IDC-10MS
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+10
+10
+IWconnectors
+IDC-16MS
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+16
+16
+IWconnectors
+IDC-20MS
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+20
+20
+IWconnectors
+PIN_ARRAY_2x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+2
+2
+IWconnectors
+PIN_ARRAY_3x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+3
+3
+IWconnectors
+PIN_ARRAY_3x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+6
+6
+IWconnectors
+PIN_ARRAY_4x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+4
+4
+IWconnectors
+PIN_ARRAY_4x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+8
+8
+IWconnectors
+PIN_ARRAY_6x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+6
+6
+IWconnectors
+PIN_ARRAY_7x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+7
+7
+IWconnectors
+PIN_ARRAY_7x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+14
+14
+IWconnectors
+PIN_ARRAY_8x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+8
+8
+IWconnectors
+PIN_ARRAY_10x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+10
+10
+IWconnectors
+SMA-R
+
+SMA Connector
+0
+5
+5
+IWconnectors
+WF-2
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+2
+2
+IWconnectors
+WF-3
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+3
+3
+IWconnectors
+WF-4
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+4
+4
+IWconnectors
+WF-5
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+5
+5
+IWconnectors
+WF-6
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+6
+6
+IWconnectors
+WF-7
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+7
+7
+IWconnectors
+WF-8
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+8
+8
+IWconnectors
+con-yamaichi-cf-CF050P2
+CF 050 P2 - * 03 - * 0 - DS
+CF 050 P2 - * 03 - * 0 - DS
+0
+58
+52
+IWconnectors
+jack_3.5mm_CKX3-3.5-30
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+5
+3
+IWsmd_case
+BOURNS_3224J
+
+
+0
+3
+3
+IWsmd_case
+CASE_A
+
+
+0
+2
+2
+IWsmd_case
+CASE_B
+
+
+0
+2
+2
+IWsmd_case
+CASE_C
+
+
+0
+2
+2
+IWsmd_case
+CASE_D
+
+
+0
+2
+2
+IWsmd_case
+CASE_J
+
+
+0
+2
+2
+IWsmd_case
+CASE_P
+
+
+0
+2
+2
+IWsmd_case
+EPSON_FA-20H
+Module CMS SOJ 8 pins large
+CMS SOJ
+0
+4
+4
+IWsmd_case
+LED0805
+LED 0805 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+IWsmd_case
+LED1206
+LED 1206 smd package
+LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+IWsmd_case
+MSOP-10
+Module CMS SOJ 8 pins large
+CMS SOJ
+0
+10
+10
+IWsmd_case
+OSRAM_SFH47XX
+
+
+0
+3
+2
+IWsmd_case
+SMD0301M2-2
+
+
+0
+2
+2
+IWsmd_case
+SMD0603
+
+
+0
+2
+2
+IWsmd_case
+SMD0805
+
+
+0
+2
+2
+IWsmd_case
+SMD1206
+
+
+0
+2
+2
+IWsmd_case
+SMD1210
+
+CMS SM
+0
+2
+2
+IWsmd_case
+SMD1812
+
+CMS SM
+0
+2
+2
+IWsmd_case
+SOIC8
+Module CMS SOJ 8 pins large
+CMS SOJ
+0
+8
+8
+IWsmd_case
+SOIC14
+Module CMS SOJ 14 pins Large
+CMS SOJ
+0
+14
+14
+IWsmd_case
+SOIC16
+Module CMS SOJ 16 pins large
+CMS SOJ
+0
+16
+16
+IWsmd_case
+SOIC16_RW16
+Module CMS SOJ 16 pins large
+CMS SOJ
+0
+16
+16
+IWsmd_case
+SOIC_24
+
+
+0
+24
+24
+IWsmd_case
+SWD_BUTTON
+
+
+0
+5
+5
+IWsmd_case
+TO_252
+
+
+0
+3
+3
+IWsmd_case
+TQFP32_case
+
+
+0
+32
+32
+IWsmd_case
+TQFP100_case
+Module SMD TQFP 100 Pins
+CMS TQFP
+0
+100
+100
+IWsmd_case
+TSOP16
+SSOP 28 pins
+CMS SSOP SMD
+0
+16
+16
+IWsmd_case
+TSOP24
+SSOP 28 pins
+CMS SSOP SMD
+0
+24
+24
+IWsmd_case
+TSOP28
+SSOP 28 pins
+CMS SSOP SMD
+0
+28
+28
+IWtransformator
+BVEI_302_2020
+
+
+0
+4
+4
+IWtransformator
+BVEI_302_2028
+
+
+0
+6
+6
+IWtransformator
+BVEI_382_1185
+
+
+0
+4
+4
+IWtransformator
+BVEI_481_1120
+
+
+0
+8
+6
+IWtransformator
+BVEI_481_1182
+
+
+0
+6
+4
+IWtransformator
+BVEI_541_1125
+
+
+0
+8
+4
+IWtransformator
+INDUCTOR_B82724J
+Bornier d'alimentation 2 pins
+DEV
+0
+4
+4

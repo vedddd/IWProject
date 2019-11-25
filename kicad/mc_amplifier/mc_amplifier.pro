@@ -1,4 +1,4 @@
-update=Sat 05 Mar 2016 08:59:19 MSK
+update=Пн 25 ноя 2019 15:13:04
 version=1
 last_client=kicad
 [cvpcb]
@@ -36,17 +36,16 @@ LibName1=../../../kicad-components/mod_kicad/LFcomponents
 LibName2=../../../kicad-components/mod_kicad/LFconnectors
 LibName3=../../../kicad-components/mod_kicad/LFsmd_case
 LibName4=../../../kicad-components/mod_kicad/LFtransformator
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=
-[eeschema/libraries]
-LibName1=mc_amplifier-rescue
-LibName2=../../../kicad-components/library_kicad/LFbutton
-LibName3=../../../kicad-components/library_kicad/LFcapitors
-LibName4=../../../kicad-components/library_kicad/LFcomponents
-LibName5=../../../kicad-components/library_kicad/LFconnectors
-LibName6=../../../kicad-components/library_kicad/LFdiod
-LibName7=../../../kicad-components/library_kicad/LFpower
-LibName8=../../../kicad-components/library_kicad/LFresistor
-LibName9=../../../kicad-components/library_kicad/LFtransformator
-LibName10=../../../kicad-components/library_kicad/LFtransistor
