@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/vdn/git/IWProject/kicad/mc_amplifier/mc_amplifier.sch)
-    (date "Ср 27 ноя 2019 00:17:10")
+    (date "Ср 27 ноя 2019 00:35:43")
     (tool "Eeschema 5.1.5-52549c5~84~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -94,7 +94,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5DDBDEAB))
     (comp (ref R3)
-      (value "51 к 1%")
+      (value "5.1 к 1%")
       (footprint IWsmd_case:SMD0805)
       (libsource (lib LFresistor) (part RESISTOR) (description "Ampli Op 3 state out"))
       (sheetpath (names /) (tstamps /))
