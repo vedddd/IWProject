@@ -89,12 +89,12 @@ Wire Wire Line
 	7600 3700 6850 3700
 Connection ~ 7600 3250
 Wire Wire Line
-	9300 2150 9650 2150
-Text Label 9300 2150 0    60   ~ 0
+	9600 2150 9950 2150
+Text Label 9600 2150 0    60   ~ 0
 GND
 Wire Wire Line
-	9300 2350 9650 2350
-Text Label 9300 2350 0    60   ~ 0
+	9600 2350 9950 2350
+Text Label 9600 2350 0    60   ~ 0
 +9V
 $Comp
 L LFresistor:RESISTOR R1
@@ -112,7 +112,7 @@ L LFresistor:RESISTOR R2
 U 1 1 53E881E6
 P 2350 2250
 F 0 "R2" H 2500 2500 71  0000 C CNN
-F 1 "5.1 к" H 2500 2400 71  0000 C CNN
+F 1 "5.1 к 1%" H 2500 2400 71  0000 C CNN
 F 2 "IWsmd_case:SMD0805" H 2350 2250 60  0001 C CNN
 F 3 "" H 2350 2250 60  0000 C CNN
 	1    2350 2250
@@ -134,7 +134,7 @@ L LFresistor:RESISTOR R4
 U 1 1 53E8828B
 P 4150 3650
 F 0 "R4" H 4300 3900 71  0000 C CNN
-F 1 "5.1 к" H 4300 3800 71  0000 C CNN
+F 1 "5.1 к 1%" H 4300 3800 71  0000 C CNN
 F 2 "IWsmd_case:SMD0805" H 4150 3650 60  0001 C CNN
 F 3 "" H 4150 3650 60  0000 C CNN
 	1    4150 3650
@@ -209,12 +209,12 @@ $EndComp
 $Comp
 L LFconnectors:connector_3pin_gost XP2
 U 1 1 53E88414
-P 9650 2150
-F 0 "XP2" H 9800 2450 50  0000 L BNN
-F 1 "WF-3R" H 9750 2350 50  0000 L BNN
-F 2 "IWconnectors:WF-3" H 10100 2300 50  0001 C CNN
-F 3 "" H 9650 2150 60  0000 C CNN
-	1    9650 2150
+P 9950 2150
+F 0 "XP2" H 10100 2450 50  0000 L BNN
+F 1 "WF-3R" H 10050 2350 50  0000 L BNN
+F 2 "IWconnectors:WF-3" H 10400 2300 50  0001 C CNN
+F 3 "" H 9950 2150 60  0000 C CNN
+	1    9950 2150
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -258,7 +258,7 @@ L LFresistor:RESISTOR_TRIMMING R6
 U 1 1 5DDBDEAB
 P 6950 3250
 F 0 "R6" H 7050 3550 71  0000 C CNN
-F 1 "50 к" H 7100 3450 71  0000 C CNN
+F 1 "100 к" H 7100 3450 71  0000 C CNN
 F 2 "IWsmd_case:BOURNS_3224J" H 6950 3250 60  0001 C CNN
 F 3 "" H 7075 3481 60  0000 C CNN
 	1    6950 3250
@@ -295,73 +295,68 @@ Text Notes 2490 3690 0    50   ~ 0
 Вход
 Text Notes 2460 3790 0    50   ~ 0
 Общий
-Text Notes 10060 2290 0    50   ~ 0
+Text Notes 10360 2290 0    50   ~ 0
 Выход
-Text Notes 10030 2390 0    50   ~ 0
+Text Notes 10330 2390 0    50   ~ 0
  +9 В
-Text Notes 10050 2190 0    50   ~ 0
+Text Notes 10350 2190 0    50   ~ 0
 Общий
 $Comp
 L LFcapitors:CAPITORS_ELECTROLYTIC C5
 U 1 1 5DDF39DE
-P 7950 2250
-F 0 "C5" H 8050 2100 71  0000 C CNN
-F 1 "47 мк 25 В" H 7950 2000 71  0000 C CNN
-F 2 "IWsmd_case:CASE_D" H 7950 2250 60  0001 C CNN
-F 3 "" H 7950 2250 60  0000 C CNN
-	1    7950 2250
-	-1   0    0    -1  
+P 9000 2250
+F 0 "C5" H 9100 2550 71  0000 C CNN
+F 1 "47 мк 25 В" H 9100 2450 71  0000 C CNN
+F 2 "IWsmd_case:CASE_D" H 9000 2250 60  0001 C CNN
+F 3 "" H 9000 2250 60  0000 C CNN
+	1    9000 2250
+	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	7700 2250 7600 2250
 Connection ~ 7600 2250
 $Comp
 L LFresistor:RESISTOR R7
 U 1 1 5DDFC765
-P 8100 2250
-F 0 "R7" H 8200 2500 71  0000 C CNN
-F 1 "1 к 1%" H 8250 2400 71  0000 C CNN
-F 2 "IWsmd_case:SMD0805" H 8100 2250 60  0001 C CNN
-F 3 "" H 8225 2481 60  0000 C CNN
-	1    8100 2250
+P 7750 2250
+F 0 "R7" H 7850 2500 71  0000 C CNN
+F 1 "1 к 1%" H 7900 2400 71  0000 C CNN
+F 2 "IWsmd_case:SMD0805" H 7750 2250 60  0001 C CNN
+F 3 "" H 7875 2481 60  0000 C CNN
+	1    7750 2250
 	1    0    0    -1  
 $EndComp
 $Comp
 L LFresistor:RESISTOR R8
 U 1 1 5DE0141A
-P 8650 2250
-F 0 "R8" H 8750 2500 71  0000 C CNN
-F 1 "1 к 1%" H 8800 2400 71  0000 C CNN
-F 2 "IWsmd_case:SMD0805" H 8650 2250 60  0001 C CNN
-F 3 "" H 8775 2481 60  0000 C CNN
-	1    8650 2250
+P 8300 2250
+F 0 "R8" H 8400 2500 71  0000 C CNN
+F 1 "1 к 1%" H 8450 2400 71  0000 C CNN
+F 2 "IWsmd_case:SMD0805" H 8300 2250 60  0001 C CNN
+F 3 "" H 8425 2481 60  0000 C CNN
+	1    8300 2250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7950 2250 8100 2250
+	7600 2250 7750 2250
 Wire Wire Line
-	8350 2250 8650 2250
+	8000 2250 8300 2250
 Wire Wire Line
-	8900 2250 9150 2250
+	8550 2250 8800 2250
 $Comp
 L LFresistor:RESISTOR R9
 U 1 1 5DE0763D
-P 9150 2400
-F 0 "R9" V 9250 2600 71  0000 C CNN
-F 1 "1 к 1%" V 9350 2750 71  0000 C CNN
-F 2 "IWsmd_case:SMD0805" H 9150 2400 60  0001 C CNN
-F 3 "" H 9150 2400 60  0000 C CNN
-	1    9150 2400
+P 8800 2400
+F 0 "R9" V 8900 2600 71  0000 C CNN
+F 1 "1 к 1%" V 9000 2700 71  0000 C CNN
+F 2 "IWsmd_case:SMD0805" H 8800 2400 60  0001 C CNN
+F 3 "" H 8800 2400 60  0000 C CNN
+	1    8800 2400
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	9150 2250 9150 2400
-Connection ~ 9150 2250
+	8800 2250 8800 2400
 Wire Wire Line
-	9150 2250 9650 2250
-Wire Wire Line
-	9150 2650 9150 2900
-Text Label 9150 2900 1    60   ~ 0
+	8800 2650 8800 2900
+Text Label 8800 2900 1    60   ~ 0
 GND
 $Comp
 L LFresistor:RESISTOR R10
@@ -375,13 +370,38 @@ F 3 "" H 8425 2081 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9150 2250 9150 1850
-Wire Wire Line
-	9150 1850 8550 1850
-Wire Wire Line
 	7600 2250 7600 1850
 Wire Wire Line
 	7600 1850 8300 1850
 Text Notes 1300 6250 0    100  ~ 0
-*  Схема может быть запитана напряжением в диапазоне от 9 до 12 В.\n**  Резистор R10 устанавливается когда усилитель подключается к оциллографу,\nесли усилитель подключается к микрофонному входу звуковой карты\nкомпоненты C5, R7, R8, R9 не устанавливается.\n*** В зависимости от требуемого коэффициента усиления в качестве резистора\nR3 можно поставить резистор номиналом 51 кОм
+*  Схема может быть запитана напряжением в диапазоне от 9 до 12 В.\nЕсли запитать схему от 15В то на место VD1 нужно поставить стабилитрон BZV55C4V7\n**  Резистор R10 устанавливается когда усилитель подключается к оциллографу,\nесли усилитель подключается к микрофонному входу звуковой карты\nкомпоненты C5, R7, R8, R9 должны быть установлены, R10 впаивать не нужно.\n*** Резистор R11 устанавливается в зависимости от необходимости.
+Wire Wire Line
+	8800 2250 9000 2250
+Connection ~ 8800 2250
+Wire Wire Line
+	9250 2250 9450 2250
+Wire Wire Line
+	9450 2250 9450 1850
+Wire Wire Line
+	8550 1850 9450 1850
+Wire Wire Line
+	9450 2250 9950 2250
+Connection ~ 9450 2250
+$Comp
+L LFresistor:RESISTOR R11
+U 1 1 5E1CCD8B
+P 9450 2400
+F 0 "R11" V 9550 2600 71  0000 C CNN
+F 1 "47 к" V 9650 2600 71  0000 C CNN
+F 2 "IWsmd_case:SMD0805" H 9450 2400 60  0001 C CNN
+F 3 "" H 9450 2400 60  0000 C CNN
+	1    9450 2400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9450 2250 9450 2400
+Wire Wire Line
+	9450 2650 9450 2900
+Text Label 9450 2900 1    60   ~ 0
+GND
 $EndSCHEMATC
