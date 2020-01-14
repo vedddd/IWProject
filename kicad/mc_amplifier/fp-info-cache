@@ -1,4 +1,4 @@
-212108051063077
+193132933190077
 IWcomponents
 ALPS_EC11_push
 8 pins DIL package, elliptical pads
@@ -301,13 +301,6 @@ SMA
 2
 2
 IWcomponents
-SMB
-
-
-0
-2
-2
-IWcomponents
 SMC
 
 
@@ -336,26 +329,12 @@ SOT23_5
 2
 2
 IWcomponents
-SOD523
-
-SOT23_5
-0
-2
-2
-IWcomponents
 SOT_23
 Module CMS SOT23 Transistore EBC
 CMS SOT
 0
 3
 3
-IWcomponents
-SOT_753
-Module CMS SOT23 Transistore EBC
-CMS SOT
-0
-5
-5
 IWcomponents
 TO220_DIOD_VERT_POZ
 Regulateur TO220 serie LM78xx
@@ -455,27 +434,6 @@ CONN JACK
 3
 3
 IWconnectors
-DS1074-4
-Bornier d'alimentation 2 pins
-DEV
-0
-4
-4
-IWconnectors
-DS1074-5
-Bornier d'alimentation 2 pins
-DEV
-0
-5
-5
-IWconnectors
-DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-46
-45
-IWconnectors
 FCI-10029065
 
 
@@ -539,13 +497,6 @@ CONN
 8
 8
 IWconnectors
-PIN_ARRAY_5x1
-Double rangee de contacts 2 x 5 pins
-CONN
-0
-5
-5
-IWconnectors
 PIN_ARRAY_6x1
 Double rangee de contacts 2 x 5 pins
 CONN
@@ -581,33 +532,12 @@ CONN
 10
 10
 IWconnectors
-PIN_ARRAY_11x2
-Double rangee de contacts 2 x 8 pins
-CONN
-0
-22
-22
-IWconnectors
-PIN_ARRAY_15x2
-Double rangee de contacts 2 x 8 pins
-CONN
-0
-30
-30
-IWconnectors
 SMA-R
 
 SMA Connector
 0
 5
 5
-IWconnectors
-TBH-18650-1A-P
-Double rangee de contacts 2 x 5 pins
-CONN
-0
-4
-3
 IWconnectors
 WF-2
 Double rangee de contacts 2 x 5 pins
@@ -727,13 +657,6 @@ CMS SOJ
 0
 4
 4
-IWsmd_case
-INDUCTORS_B82464G4
-
-
-0
-2
-2
 IWsmd_case
 LED0805
 LED 0805 smd package
@@ -867,13 +790,6 @@ CMS TQFP
 0
 100
 100
-IWsmd_case
-TSOP14
-SSOP 28 pins
-CMS SSOP SMD
-0
-14
-14
 IWsmd_case
 TSOP16
 SSOP 28 pins
