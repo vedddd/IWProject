@@ -1,6 +1,6 @@
-update=Sun 12 Apr 2015 17:34:06 MSK
+update=Mon 05 Oct 2020 22:26:50 MSK
 version=1
-last_client=pcbnew
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -52,3 +52,13 @@ LibName1=../../../kicad-components/mod_kicad/LFcomponents
 LibName2=../../../kicad-components/mod_kicad/LFconnectors
 LibName3=../../../kicad-components/mod_kicad/LFsmd_case
 LibName4=../../../kicad-components/mod_kicad/LFtransformator
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../../../../Рабочий стол/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
