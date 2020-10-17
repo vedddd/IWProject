@@ -1,6 +1,6 @@
-update=Thu 20 Feb 2014 19:11:35 MSK
+update=Sat 17 Oct 2020 19:06:52 MSK
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetITyp=0
@@ -78,3 +78,13 @@ LibName6=../../../kicad-components/library_kicad/LFpower
 LibName7=../../../kicad-components/library_kicad/LFresistor
 LibName8=../../../kicad-components/library_kicad/LFtransformator
 LibName9=../../../kicad-components/library_kicad/LFtransistor
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/vdn/Рабочий стол/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
