@@ -1,4 +1,4 @@
-update=Mon 12 Oct 2020 14:38:57 MSK
+update=Wed 27 Jan 2021 15:37:41 MSK
 version=1
 last_client=kicad
 [cvpcb]
@@ -34,16 +34,16 @@ LibName1=../../../kicad-components/mod_kicad/LFcomponents
 LibName2=../../../kicad-components/mod_kicad/LFconnectors
 LibName3=../../../kicad-components/mod_kicad/LFsmd_case
 LibName4=../../../kicad-components/mod_kicad/LFtransformator
+[eeschema]
+version=1
+LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
 PlotDirectoryName=../../../../Рабочий стол/
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
-[eeschema]
-version=1
-LibDir=

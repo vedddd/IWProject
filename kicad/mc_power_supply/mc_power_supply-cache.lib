@@ -63,6 +63,27 @@ X ~ 2 250 0 0 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# LFconnectors_connector_1pin_gost
+#
+DEF LFconnectors_connector_1pin_gost X 0 40 N N 1 F N
+F0 "X" 275 300 71 H V L BNN
+F1 "LFconnectors_connector_1pin_gost" -50 200 71 H V L BNN
+F2 "" 350 150 50 H I C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 150 0 60 0 0 0 1 Normal 0 C C
+T 0 150 100 60 0 0 0 Конт. Normal 0 C C
+T 0 525 100 60 0 0 0 Цепь Normal 0 C C
+P 2 0 0 0 0 50 750 50 N
+P 2 0 0 0 750 -50 0 -50 N
+P 2 0 1 0 0 150 0 -50 N
+P 2 0 1 0 0 150 750 150 N
+P 2 0 1 0 300 150 300 -50 N
+P 2 0 1 0 750 -50 750 150 N
+X ~ 1 0 0 0 R 61 61 1 1 P
+ENDDRAW
+ENDDEF
+#
 # LFconnectors_connector_2pin_gost
 #
 DEF LFconnectors_connector_2pin_gost X 0 40 N N 1 F N
@@ -188,6 +209,23 @@ X ~ 3 250 0 0 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# LFresistor_VARISTOR
+#
+DEF LFresistor_VARISTOR RU 0 20 N Y 1 F N
+F0 "RU" 125 275 71 H V C CNN
+F1 "LFresistor_VARISTOR" 150 150 71 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 125 -105 60 0 0 0 U Italic 0 C C
+S 0 50 250 -50 0 1 0 N
+P 2 0 1 0 0 -100 -100 -100 N
+P 2 0 1 0 250 100 0 -100 N
+X ~ 1 0 0 0 R 50 50 1 1 P
+X ~ 2 250 0 0 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # LFtransformator_BVEI_302_2020
 #
 DEF LFtransformator_BVEI_302_2020 TV 0 0 N Y 1 F N
@@ -207,6 +245,30 @@ X ~ 1 0 0 100 R 50 50 1 1 I
 X ~ 5 0 -300 100 R 50 50 1 1 I
 X ~ 7 400 0 100 L 50 50 1 1 I
 X ~ 9 400 -300 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LFtransformator_CHOKES_PL
+#
+DEF LFtransformator_CHOKES_PL LL 0 0 Y Y 1 F N
+F0 "LL" 450 -300 60 V V C CNN
+F1 "LFtransformator_CHOKES_PL" 350 -300 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+A 0 -400 50 -899 899 0 0 0 N 0 -450 0 -350
+A 0 -300 50 -899 899 0 0 0 N 0 -350 0 -250
+A 0 -200 50 -899 899 0 0 0 N 0 -250 0 -150
+A 200 -400 50 901 -901 0 0 0 N 200 -350 200 -450
+A 200 -300 50 901 -901 0 0 0 N 200 -250 200 -350
+A 200 -200 50 901 -901 0 0 0 N 200 -150 200 -250
+C -50 -450 10 0 1 0 F
+C 250 -450 10 0 1 0 F
+P 3 0 0 0 100 -100 100 -500 100 -500 N
+X ~ 1 200 -600 150 U 50 50 1 1 I
+X ~ 2 0 -600 150 U 50 50 1 1 I
+X ~ 3 0 0 150 D 50 50 1 1 I
+X ~ 4 200 0 150 D 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
