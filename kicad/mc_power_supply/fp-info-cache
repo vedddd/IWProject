@@ -1,0 +1,1975 @@
+443388796172619
+IWcomponents
+ALPS_EC11_push
+8 pins DIL package, elliptical pads
+DIL
+0
+7
+7
+IWcomponents
+CAPACITOR_5.08_D10
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_5.08_D13
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_10_D22
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_10_D30
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_10_D36
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_15_18x7
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_0511
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_B32923_26.5x11
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CBB21_10_12x6
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CBB21_15_16x6
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CBB21_20_24x11
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CD263_2.54_D6.3
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_CD263_5.08_D10
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_FKP2_5_7x6.5
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_K10-17
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+CAPACITOR_MKP4_27_5_32x11
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+DIP_4
+8 pins DIL package, elliptical pads
+DIL
+0
+4
+4
+IWcomponents
+DIP_6
+8 pins DIL package, elliptical pads
+DIL
+0
+6
+6
+IWcomponents
+DIP_8
+8 pins DIL package, elliptical pads
+DIL
+0
+8
+8
+IWcomponents
+DIP_14
+24 pins DIL package, elliptical pads
+DIL
+0
+14
+14
+IWcomponents
+DIP_24
+24 pins DIL package, elliptical pads
+DIL
+0
+24
+24
+IWcomponents
+DO-41
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+2
+2
+IWcomponents
+Electron_3296W
+Condensateur e = 1 pas
+C
+0
+3
+3
+IWcomponents
+FU_PTF15B
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+HC-49SM
+
+
+0
+2
+2
+IWcomponents
+INDUCTORS_1_15x8
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+K73-17
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+KC168B
+Condensateur e = 1 pas
+C
+0
+2
+2
+IWcomponents
+KLS5-CR2032-01
+8 pins DIL package, elliptical pads
+DIL
+0
+2
+2
+IWcomponents
+KLS7-TS6601-XX
+8 pins DIL package, elliptical pads
+DIL
+0
+4
+4
+IWcomponents
+LIGHT_DIODE_3MM
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+LIGHT_DIODE_DUAL_4MM
+Bornier d'alimentation 2 pins
+DEV
+0
+3
+3
+IWcomponents
+MULTIWATT15
+MULTIWATT 15 LEAD
+MULTIWATT 15 LEAD
+0
+15
+15
+IWcomponents
+NSOP8
+
+
+0
+8
+8
+IWcomponents
+OEP_N
+
+
+0
+4
+4
+IWcomponents
+P10LU-0515ZLF
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+6
+6
+IWcomponents
+PSA12-11
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+18
+18
+IWcomponents
+Q_49U3HMS&
+
+
+0
+2
+2
+IWcomponents
+RESISTOR_0.5W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RESISTOR_0.25W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RESISTOR_1W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RESISTOR_2W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RESISTOR_10W
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+RU_EPCOS_B72210S0271K101_12х5
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWcomponents
+SDR0604
+
+CMS SM
+0
+2
+2
+IWcomponents
+SDR0805
+
+CMS SM
+0
+2
+2
+IWcomponents
+SIM900D
+47
+
+0
+52
+48
+IWcomponents
+SIM_ATOM010050030119
+
+
+0
+10
+7
+IWcomponents
+SMA
+
+
+0
+2
+2
+IWcomponents
+SMB
+
+
+0
+2
+2
+IWcomponents
+SMC
+
+
+0
+2
+2
+IWcomponents
+SOD-123FL
+Connecteur Bus AT ISA 16 bits
+CONN BUS ISA
+0
+2
+2
+IWcomponents
+SOD80C
+
+SOT23_5
+0
+2
+2
+IWcomponents
+SOD110
+
+SOT23_5
+0
+2
+2
+IWcomponents
+SOD523
+
+SOT23_5
+0
+2
+2
+IWcomponents
+SOT_23
+Module CMS SOT23 Transistore EBC
+CMS SOT
+0
+3
+3
+IWcomponents
+SOT_753
+Module CMS SOT23 Transistore EBC
+CMS SOT
+0
+5
+5
+IWcomponents
+SPEAKER_ZP-25
+8 pins DIL package, elliptical pads
+DIL
+0
+2
+2
+IWcomponents
+TO220_DIOD_VERT_POZ
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+2
+2
+IWcomponents
+TO220_RAD_16.5x15
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+4
+4
+IWcomponents
+TO220_RAD_16.5x15_VD
+
+TR TO220
+0
+4
+4
+IWcomponents
+TO220_VERT_POZ
+Regulateur TO220 serie LM78xx
+TR TO220
+0
+3
+3
+IWcomponents
+TRIL-12VDC
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+8
+8
+IWcomponents
+VARISTOR_11_20x5
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWconnectors
+1_pin
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+IWconnectors
+1pin_SMD
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+IWconnectors
+AWG12-2
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWconnectors
+CONN_USB-B
+Connecteur USB type B
+USB
+0
+6
+6
+IWconnectors
+DG126-5.0-02P-14
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+2
+IWconnectors
+DG126-5.0-03P-14
+Bornier d'alimentation 2 pins
+DEV
+0
+3
+3
+IWconnectors
+DRB-37MA_37pins_7_2mm
+Bornier d'alimentation 2 pins
+DEV
+0
+39
+38
+IWconnectors
+DS-210mm
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+IWconnectors
+DS-261
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+IWconnectors
+DS1073-01-2x3-MVT6
+Bornier d'alimentation 2 pins
+DEV
+0
+6
+6
+IWconnectors
+DS1074-4
+Bornier d'alimentation 2 pins
+DEV
+0
+4
+4
+IWconnectors
+DS1074-5
+Bornier d'alimentation 2 pins
+DEV
+0
+5
+5
+IWconnectors
+FCI-10029065
+
+
+0
+26
+22
+IWconnectors
+IDC-10MS
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+10
+10
+IWconnectors
+IDC-16MS
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+16
+16
+IWconnectors
+IDC-20MS
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+20
+20
+IWconnectors
+PIN_ARRAY_2x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+2
+2
+IWconnectors
+PIN_ARRAY_3x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+3
+3
+IWconnectors
+PIN_ARRAY_3x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+6
+6
+IWconnectors
+PIN_ARRAY_4x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+4
+4
+IWconnectors
+PIN_ARRAY_4x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+8
+8
+IWconnectors
+PIN_ARRAY_5x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+5
+5
+IWconnectors
+PIN_ARRAY_6x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+6
+6
+IWconnectors
+PIN_ARRAY_7x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+7
+7
+IWconnectors
+PIN_ARRAY_7x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+14
+14
+IWconnectors
+PIN_ARRAY_8x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+8
+8
+IWconnectors
+PIN_ARRAY_10x1
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+10
+10
+IWconnectors
+PIN_ARRAY_15x2
+Double rangee de contacts 2 x 8 pins
+CONN
+0
+30
+30
+IWconnectors
+SMA-R
+
+SMA Connector
+0
+5
+5
+IWconnectors
+TBH-18650-1A-P
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+4
+3
+IWconnectors
+TERMINAL_KLS8-01128_6.3mm
+Bornier d'alimentation 2 pins
+DEV
+0
+2
+1
+IWconnectors
+WF-2
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+2
+2
+IWconnectors
+WF-3
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+3
+3
+IWconnectors
+WF-4
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+4
+4
+IWconnectors
+WF-5
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+5
+5
+IWconnectors
+WF-6
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+6
+6
+IWconnectors
+WF-7
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+7
+7
+IWconnectors
+WF-8
+Double rangee de contacts 2 x 5 pins
+CONN
+0
+8
+8
+IWconnectors
+con-yamaichi-cf-CF050P2
+CF 050 P2 - * 03 - * 0 - DS
+CF 050 P2 - * 03 - * 0 - DS
+0
+58
+52
+IWconnectors
+jack_3.5mm_CKX3-3.5-30
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+5
+3
+IWsmd_case
+BOURNS_3224J
+
+
+0
+3
+3
+IWsmd_case
+BOURNS_3224W
+
+
+0
+3
+3
+IWsmd_case
+CASE_A
+
+
+0
+2
+2
+IWsmd_case
+CASE_B
+
+
+0
+2
+2
+IWsmd_case
+CASE_C
+
+
+0
+2
+2
+IWsmd_case
+CASE_D
+
+
+0
+2
+2
+IWsmd_case
+CASE_J
+
+
+0
+2
+2
+IWsmd_case
+CASE_P
+
+
+0
+2
+2
+IWsmd_case
+EPSON_FA-20H
+Module CMS SOJ 8 pins large
+CMS SOJ
+0
+4
+4
+IWsmd_case
+EPSON_MC-306
+
+
+0
+4
+4
+IWsmd_case
+INDUCTORS_B82464G4
+
+
+0
+2
+2
+IWsmd_case
+LED0805
+LED 0805 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+IWsmd_case
+LED1206
+LED 1206 smd package
+LED led 1206 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+IWsmd_case
+MSOP-10
+Module CMS SOJ 8 pins large
+CMS SOJ
+0
+10
+10
+IWsmd_case
+OSRAM_SFH47XX
+
+
+0
+3
+2
+IWsmd_case
+SMD0301M2-2
+
+
+0
+2
+2
+IWsmd_case
+SMD0603
+
+
+0
+2
+2
+IWsmd_case
+SMD0805
+
+
+0
+2
+2
+IWsmd_case
+SMD1206
+
+
+0
+2
+2
+IWsmd_case
+SMD1210
+
+CMS SM
+0
+2
+2
+IWsmd_case
+SMD1812
+
+CMS SM
+0
+2
+2
+IWsmd_case
+SMD2512
+
+CMS SM
+0
+2
+2
+IWsmd_case
+SOIC8
+Module CMS SOJ 8 pins large
+CMS SOJ
+0
+8
+8
+IWsmd_case
+SOIC8_PowerPAD
+Module CMS SOJ 8 pins large
+CMS SOJ
+0
+9
+9
+IWsmd_case
+SOIC14
+Module CMS SOJ 14 pins Large
+CMS SOJ
+0
+14
+14
+IWsmd_case
+SOIC16
+Module CMS SOJ 16 pins large
+CMS SOJ
+0
+16
+16
+IWsmd_case
+SOIC16_RW16
+Module CMS SOJ 16 pins large
+CMS SOJ
+0
+16
+16
+IWsmd_case
+SOIC_24
+
+
+0
+24
+24
+IWsmd_case
+SWD_BUTTON
+
+
+0
+5
+5
+IWsmd_case
+TO-252-3_TabPin_2
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+4
+3
+IWsmd_case
+TO-263-3_TabPin_2
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+4
+3
+IWsmd_case
+TO_252
+
+
+0
+3
+3
+IWsmd_case
+TQFP32_case
+
+
+0
+32
+32
+IWsmd_case
+TQFP100_case
+Module SMD TQFP 100 Pins
+CMS TQFP
+0
+100
+100
+IWsmd_case
+TSOP14
+SSOP 28 pins
+CMS SSOP SMD
+0
+14
+14
+IWsmd_case
+TSOP16
+SSOP 28 pins
+CMS SSOP SMD
+0
+16
+16
+IWsmd_case
+TSOP24
+SSOP 28 pins
+CMS SSOP SMD
+0
+24
+24
+IWsmd_case
+TSOP28
+SSOP 28 pins
+CMS SSOP SMD
+0
+28
+28
+IWsmd_case
+TSSOP14_PowerPAD
+SSOP 28 pins
+CMS SSOP SMD
+0
+15
+15
+IWsmd_case
+WE_744228S
+
+
+0
+4
+4
+IWtransformator
+BVEI_302_2020
+
+
+0
+4
+4
+IWtransformator
+BVEI_302_2028
+
+
+0
+6
+6
+IWtransformator
+BVEI_382_1185
+
+
+0
+4
+4
+IWtransformator
+BVEI_481_1120
+
+
+0
+8
+6
+IWtransformator
+BVEI_481_1182
+
+
+0
+6
+4
+IWtransformator
+BVEI_541_1125
+
+
+0
+8
+4
+IWtransformator
+EMI_EPCOS_B82731T
+
+
+0
+4
+4
+IWtransformator
+INDUCTOR_B82724J
+Bornier d'alimentation 2 pins
+DEV
+0
+4
+4
+IWtransformator
+TPG2-12
+
+
+0
+4
+4
+IWtransformator
+TPG112-12
+
+
+0
+6
+5
+TO_CASE
+ATPAK-2
+ATPAK SMD package, http://www.onsemi.com/pub/Collateral/ENA2192-D.PDF
+ATPAK 
+0
+7
+3
+TO_CASE
+Analog_KS-4
+Analog Devices KS-4, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf
+Analog Devices KS-4 (like EIAJ SC-82)
+0
+4
+4
+TO_CASE
+Diodes_SOT-553
+Diodes SOT-553, https://www.diodes.com/assets/Package-Files/SOT553.pdf
+SOT-553
+0
+5
+5
+TO_CASE
+HVSOF5
+HVSOF5, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof5_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/hall/bu52001gul-e.pdf
+HVSOF5
+0
+5
+5
+TO_CASE
+HVSOF6
+HVSOF6, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof6_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/audio_video/video_amplifier/bh76106hfv-e.pdf
+HVSOF6
+0
+7
+7
+TO_CASE
+Infineon_PG-HDSOP-10-1
+Infineon PG-HDSOP-10-1 (DDPAK), 20.96x6.5x2.3mm, slug up (https://www.infineon.com/cms/en/product/packages/PG-HDSOP/PG-HDSOP-10-1/)
+hdsop 10 ddpak
+0
+10
+10
+TO_CASE
+Infineon_PG-HSOF-8-1
+HSOF-8-1 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)
+mosfet hsof toll
+0
+53
+3
+TO_CASE
+Infineon_PG-HSOF-8-1_ThermalVias
+HSOF-8-1 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-1/)
+mosfet hsof toll thermal vias
+0
+96
+3
+TO_CASE
+Infineon_PG-HSOF-8-2
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)
+mosfet hsof toll
+0
+12
+4
+TO_CASE
+Infineon_PG-HSOF-8-2_ThermalVias
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/)
+mosfet hsof toll thermal vias
+0
+97
+4
+TO_CASE
+Infineon_PG-HSOF-8-2_ThermalVias2
+HSOF-8-2 [TOLL] power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-2/, https://www.infineon.com/dgdl/Infineon-ApplicationNote_600V_CoolMOS_C7_Gold_TOLL-AN-v01_00-EN.pdf?fileId=5546d4625b10283a015b144a1af70df6)
+mosfet hsof toll thermal vias
+0
+159
+4
+TO_CASE
+Infineon_PG-HSOF-8-3
+HSOF-8-3 power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-3/)
+mosfet hsof
+0
+25
+4
+TO_CASE
+Infineon_PG-HSOF-8-3_ThermalVias
+HSOF-8-3 power MOSFET (http://www.infineon.com/cms/en/product/packages/PG-HSOF/PG-HSOF-8-3/)
+mosfet hsof
+0
+64
+4
+TO_CASE
+Infineon_PG-TO-220-7Lead_TabPin8
+Infineon PG-TO-220-7, Tab as Pin 8, see e.g. https://www.infineon.com/dgdl/Infineon-BTS50055-1TMC-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aa9b0007235e9
+Infineon PG-TO-220-7
+0
+12
+8
+TO_CASE
+LFPAK33
+LFPAK33 SOT-1210 https://assets.nexperia.com/documents/outline-drawing/SOT1210.pdf
+LFPAK33 SOT-1210
+0
+17
+5
+TO_CASE
+LFPAK56
+LFPAK56 https://assets.nexperia.com/documents/outline-drawing/SOT669.pdf
+LFPAK56 SOT-669 Power-SO8
+0
+18
+5
+TO_CASE
+OnSemi_ECH8
+On Semiconductor ECH8, https://www.onsemi.com/pub/Collateral/318BF.PDF
+ECH8 SOT28-FL SOT-28-FL
+0
+8
+8
+TO_CASE
+PQFN_8x8
+Low Profile 8x8mm PQFN, Dual Cool 88, https://www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf
+pqfn vdfn mosfet
+0
+9
+3
+TO_CASE
+PowerMacro_M234_NoHole
+TO-50-4 Power Macro Package Style M234
+TO-50-4 Power Macro Package Style M234
+0
+4
+4
+TO_CASE
+PowerMacro_M234_WithHole
+TO-50-4 Power Macro Package Style M234
+TO-50-4 Power Macro Package Style M234
+0
+4
+4
+TO_CASE
+Rohm_HRP7
+Rohm HRP7 SMD package, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hrp7_1-e.pdf, http://rohmfs.rohm.com/en/products/databook/datasheet/ic/motor/dc/bd621x-e.pdf
+Rohm HRP7 SMD
+0
+69
+7
+TO_CASE
+SC-59
+SC-59, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg
+SC-59
+0
+3
+3
+TO_CASE
+SC-59_Handsoldering
+SC-59, hand-soldering varaint, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg
+SC-59 hand-soldering
+0
+3
+3
+TO_CASE
+SC-70-8
+SC70-8
+SC70-8
+0
+8
+8
+TO_CASE
+SC-70-8_Handsoldering
+SC70-8, Handsoldering
+SC70-8 Handsoldering
+0
+8
+8
+TO_CASE
+SC-82AA
+SC-82AA
+SC-82AA
+0
+4
+4
+TO_CASE
+SC-82AA_Handsoldering
+SC-82AA
+SC-82AA
+0
+4
+4
+TO_CASE
+SC-82AB
+SC-82AB
+SC-82AB
+0
+4
+4
+TO_CASE
+SC-82AB_Handsoldering
+SC-82AB
+SC-82AB
+0
+4
+4
+TO_CASE
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+TO_CASE
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+TO_CASE
+SOT-23-5_HandSoldering
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+5
+5
+TO_CASE
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+TO_CASE
+SOT-23-6_Handsoldering
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+6
+6
+TO_CASE
+SOT-23-8
+8-pin SOT-23 package, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf
+SOT-23-8
+0
+8
+8
+TO_CASE
+SOT-23-8_Handsoldering
+8-pin SOT-23 package, Handsoldering, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf
+SOT-23-8 Handsoldering
+0
+8
+8
+TO_CASE
+SOT-23W
+SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
+SOT-23W
+0
+3
+3
+TO_CASE
+SOT-23W_Handsoldering
+SOT-23W http://www.allegromicro.com/~/media/Files/Datasheets/A112x-Datasheet.ashx?la=en&hash=7BC461E058CC246E0BAB62433B2F1ECA104CA9D3
+SOT-23W for handsoldering
+0
+3
+3
+TO_CASE
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+TO_CASE
+SOT-89-3
+SOT-89-3, http://ww1.microchip.com/downloads/en/DeviceDoc/3L_SOT-89_MB_C04-029C.pdf
+SOT-89-3
+0
+3
+3
+TO_CASE
+SOT-89-3_Handsoldering
+SOT-89-3 Handsoldering
+SOT-89-3 Handsoldering
+0
+3
+3
+TO_CASE
+SOT-89-5
+SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT-89-5
+0
+5
+5
+TO_CASE
+SOT-89-5_Handsoldering
+SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT-89-5
+0
+5
+5
+TO_CASE
+SOT-143
+SOT-143
+SOT-143
+0
+4
+4
+TO_CASE
+SOT-143R_Reverse
+SOT-143R Reverse
+SOT-143R Reverse
+0
+4
+4
+TO_CASE
+SOT-143R_Reverse_Handsoldering
+SOT-143R Reverse Handsoldering
+SOT-143 Reverse Handsoldering
+0
+4
+4
+TO_CASE
+SOT-143_Handsoldering
+SOT-143 Handsoldering
+SOT-143 Handsoldering
+0
+4
+4
+TO_CASE
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+TO_CASE
+SOT-223-3_TabPin2
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+TO_CASE
+SOT-223-5
+module CMS SOT223 5 pins, http://ww1.microchip.com/downloads/en/DeviceDoc/51751a.pdf
+CMS SOT
+0
+5
+5
+TO_CASE
+SOT-223-6
+module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf
+CMS SOT
+0
+6
+6
+TO_CASE
+SOT-223-6_TabPin3
+module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf
+CMS SOT
+0
+6
+5
+TO_CASE
+SOT-223-8
+module CMS SOT223 8 pins, https://www.diodes.com/assets/Datasheets/ZXSBMR16PT8.pdf
+CMS SOT
+0
+8
+8
+TO_CASE
+SOT-323_SC-70
+SOT-323, SC-70
+SOT-323 SC-70
+0
+3
+3
+TO_CASE
+SOT-323_SC-70_Handsoldering
+SOT-323, SC-70 Handsoldering
+SOT-323 SC-70 Handsoldering
+0
+3
+3
+TO_CASE
+SOT-343_SC-70-4
+SOT-343, SC-70-4
+SOT-343 SC-70-4
+0
+4
+4
+TO_CASE
+SOT-343_SC-70-4_Handsoldering
+SOT-343, SC-70-4, Handsoldering
+SOT-343 SC-70-4 Handsoldering
+0
+4
+4
+TO_CASE
+SOT-353_SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+TO_CASE
+SOT-353_SC-70-5_Handsoldering
+SOT-353, SC-70-5, Handsoldering
+SOT-353 SC-70-5 Handsoldering
+0
+5
+5
+TO_CASE
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+TO_CASE
+SOT-363_SC-70-6_Handsoldering
+SOT-363, SC-70-6, Handsoldering
+SOT-363 SC-70-6 Handsoldering
+0
+6
+6
+TO_CASE
+SOT-383F
+8-pin SOT-383F, http://www.mouser.com/ds/2/80/CPDVR085V0C-HF-RevB-10783.pdf
+SOT-383F
+0
+9
+9
+TO_CASE
+SOT-383FL
+8-pin SOT-383FL package, http://www.onsemi.com/pub_link/Collateral/ENA2267-D.PDF
+SOT-383FL
+0
+8
+8
+TO_CASE
+SOT-416
+SOT-416, https://www.nxp.com/docs/en/package-information/SOT416.pdf
+SOT-416
+0
+3
+3
+TO_CASE
+SOT-523
+SOT523, https://www.diodes.com/assets/Package-Files/SOT523.pdf
+SOT-523
+0
+3
+3
+TO_CASE
+SOT-543
+SOT-543 4 lead surface package
+SOT-543 SC-107A EMD4
+0
+4
+4
+TO_CASE
+SOT-553
+SOT553
+SOT-553
+0
+5
+5
+TO_CASE
+SOT-563
+SOT563
+SOT-563
+0
+6
+6
+TO_CASE
+SOT-665
+SOT665
+SOT-665
+0
+5
+5
+TO_CASE
+SOT-666
+SOT666
+SOT-666
+0
+6
+6
+TO_CASE
+SOT-723
+http://toshiba.semicon-storage.com/info/docget.jsp?did=5879&prodName=RN1104MFV
+sot 723
+0
+3
+3
+TO_CASE
+SOT-883
+SOT-883, https://assets.nexperia.com/documents/outline-drawing/SOT883.pdf
+SOT-883
+0
+3
+3
+TO_CASE
+SOT-886
+SOT-886
+SOT-886
+0
+6
+6
+TO_CASE
+SOT-963
+SOT 963 6 pins package 1x0.8mm pitch 0.35mm
+SOT 963 6 pins package 1x0.8mm pitch 0.35mm
+0
+6
+6
+TO_CASE
+SOT-1123
+SOT-1123 small outline transistor (see http://www.onsemi.com/pub/Collateral/NST3906F3-D.PDF)
+SOT-1123 transistor
+0
+3
+3
+TO_CASE
+SOT-1333-1
+SOT-1333-1 
+SOT-1333-1 
+0
+9
+9
+TO_CASE
+SOT-1334-1
+SOT-1334-1
+SOT-1334-1
+0
+14
+14
+TO_CASE
+SuperSOT-3
+3-pin SuperSOT package https://www.fairchildsemi.com/package-drawings/MA/MA03B.pdf
+SuperSOT-3 SSOT-3
+0
+3
+3
+TO_CASE
+SuperSOT-6
+6-pin SuperSOT package http://www.mouser.com/ds/2/149/FMB5551-889214.pdf
+SuperSOT-6 SSOT-6
+0
+6
+6
+TO_CASE
+SuperSOT-8
+8-pin SuperSOT package, http://www.icbank.com/icbank_data/semi_package/ssot8_dim.pdf
+SuperSOT-8 SSOT-8
+0
+8
+8
+TO_CASE
+TDSON-8-1
+Power MOSFET package, TDSON-8-1, 5.15x5.9mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)
+tdson 
+0
+14
+5
+TO_CASE
+TO-50-3_LongPad-NoHole_Housing
+TO-50-3 Macro T Package Style M236
+TO-50-3 Macro T Package Style M236
+0
+3
+3
+TO_CASE
+TO-50-3_LongPad-WithHole_Housing
+TO-50-3 Macro T Package Style M236
+TO-50-3 Macro T Package Style M236
+0
+3
+3
+TO_CASE
+TO-50-3_ShortPad-NoHole_Housing
+TO-50-3 Macro T Package Style M236
+TO-50-3 Macro T Package Style M236
+0
+3
+3
+TO_CASE
+TO-50-3_ShortPad-WithHole_Housing
+TO-50-3 Macro T Package Style M236
+TO-50-3 Macro T Package Style M236
+0
+3
+3
+TO_CASE
+TO-50-4_LongPad-NoHole_Housing
+TO-50-4 Macro X Package Style M238
+TO-50-4 Macro X Package Style M238
+0
+4
+4
+TO_CASE
+TO-50-4_LongPad-WithHole_Housing
+TO-50-4 Macro X Package Style M238
+TO-50-4 Macro X Package Style M238
+0
+4
+4
+TO_CASE
+TO-50-4_ShortPad-NoHole_Housing
+TO-50-4 Macro X Package Style M238
+TO-50-4 Macro X Package Style M238
+0
+4
+4
+TO_CASE
+TO-50-4_ShortPad-WithHole_Housing
+TO-50-4 Macro X Package Style M238
+TO-50-4 Macro X Package Style M238
+0
+4
+4
+TO_CASE
+TO-252-2
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+7
+3
+TO_CASE
+TO-252-2_TabPin1
+TO-252-2, tab to pin 1 https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf
+TO-252-2 diode
+0
+7
+2
+TO_CASE
+TO-252-3_TabPin2
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+8
+3
+TO_CASE
+TO-252-3_TabPin4
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+8
+4
+TO_CASE
+TO-252-4
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+DPAK TO-252 DPAK-5 TO-252-5
+0
+9
+5
+TO_CASE
+TO-252-5_TabPin3
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+DPAK TO-252 DPAK-5 TO-252-5
+0
+10
+5
+TO_CASE
+TO-252-5_TabPin6
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+DPAK TO-252 DPAK-5 TO-252-5
+0
+10
+6
+TO_CASE
+TO-263-2
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+7
+3
+TO_CASE
+TO-263-2_TabPin1
+TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode
+0
+7
+2
+TO_CASE
+TO-263-3_TabPin2
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+8
+3
+TO_CASE
+TO-263-3_TabPin4
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+8
+4
+TO_CASE
+TO-263-4
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+9
+5
+TO_CASE
+TO-263-5_TabPin3
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+10
+5
+TO_CASE
+TO-263-5_TabPin6
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+10
+6
+TO_CASE
+TO-263-6
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
+0
+11
+7
+TO_CASE
+TO-263-7_TabPin4
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
+0
+12
+7
+TO_CASE
+TO-263-7_TabPin8
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
+0
+12
+8
+TO_CASE
+TO-263-9_TabPin5
+TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf
+D2PAK DDPAK TO-263 D2PAK-9 TO-263-9
+0
+14
+9
+TO_CASE
+TO-263-9_TabPin10
+TO-263 / D2PAK / DDPAK SMD package, http://www.ti.com/lit/ds/symlink/lm4755.pdf
+D2PAK DDPAK TO-263 D2PAK-9 TO-263-9
+0
+14
+10
+TO_CASE
+TO-268-2
+TO-268/D3PAK SMD package, http://www.icbank.com/icbank_data/semi_package/to268aa_dim.pdf
+D3PAK TO-268 D3PAK-3 TO-268-3
+0
+7
+3
+TO_CASE
+TO-269AA
+SMD package TO-269AA (e.g. diode bridge), see http://www.vishay.com/docs/88854/padlayouts.pdf
+TO-269AA MBS diode bridge
+0
+4
+4
+TO_CASE
+TO-277A
+Thermal enhanced ultra thin SMD package; 3 leads; body: 4.3x6.1x0.43mm, https://www.vishay.com/docs/95570/to-277asmpc.pdf
+TO-277A SMPC
+0
+12
+3
+TO_CASE
+TO-277B
+TO-227B https://media.digikey.com/pdf/Data%20Sheets/Littelfuse%20PDFs/DST2050S.pdf
+TO-277B
+0
+9
+3
+TO_CASE
+TSOT-23
+3-pin TSOT23 package, http://www.analog.com.tw/pdf/All_In_One.pdf
+TSOT-23
+0
+3
+3
+TO_CASE
+TSOT-23-5
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23-5
+0
+5
+5
+TO_CASE
+TSOT-23-5_HandSoldering
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23-5 Hand-soldering
+0
+5
+5
+TO_CASE
+TSOT-23-6
+6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
+TSOT-23-6 MK06A TSOT-6
+0
+6
+6
+TO_CASE
+TSOT-23-6_HandSoldering
+6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
+TSOT-23-6 MK06A TSOT-6 Hand-soldering
+0
+6
+6
+TO_CASE
+TSOT-23-8
+8-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_8_05-08-1637.pdf
+TSOT-23-8
+0
+8
+8
+TO_CASE
+TSOT-23-8_HandSoldering
+8-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_8_05-08-1637.pdf
+TSOT-23-8 Hand-soldering
+0
+8
+8
+TO_CASE
+TSOT-23_HandSoldering
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23 Hand-soldering
+0
+3
+3
+TO_CASE
+Texas_DRT-3
+Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
+DRT-3 1x0.8mm Pitch 0.7mm
+0
+3
+3
+TO_CASE
+Texas_NDQ
+Texas Instruments, NDQ, 5 pin (https://www.ti.com/lit/ml/mmsf022/mmsf022.pdf)
+ti pfm dap
+0
+6
+6
+TO_CASE
+Texas_NDY0011A
+TO-PMOD-11 11-pin switching regulator package, http://www.ti.com/lit/ml/mmsf025/mmsf025.pdf
+Texas TO-PMOD NDY00011A
+0
+12
+12
+TO_CASE
+Texas_R-PDSO-G6
+R-PDSO-G6, http://www.ti.com/lit/ds/slis144b/slis144b.pdf
+R-PDSO-G6 SC-70-6
+0
+6
+6
+TO_CASE
+VSOF5
+VSOF5
+VSOF5
+0
+5
+5
+TO_CASE
+Vishay_PowerPAK_SC70-6L_Dual
+Vishay PowerPAK SC70 dual transistor package http://www.vishay.com/docs/70487/70487.pdf
+powerpak sc70 sc-70 dual
+0
+8
+6
+TO_CASE
+Vishay_PowerPAK_SC70-6L_Single
+Vishay PowerPAK SC70 single transistor package http://www.vishay.com/docs/70486/70486.pdf
+powerpak sc70 sc-70
+0
+6
+3
