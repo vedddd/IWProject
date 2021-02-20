@@ -1,6 +1,24 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# LFbutton_MTS-102-C4-R
+#
+DEF LFbutton_MTS-102-C4-R SB 0 40 Y N 1 F N
+F0 "SB" -50 375 70 H V C CNN
+F1 "LFbutton_MTS-102-C4-R" 0 250 70 H V C CNN
+F2 "" -50 -100 60 V V C CNN
+F3 "" -50 -100 60 V V C CNN
+DRAW
+P 2 0 1 0 50 0 -25 -75 N
+P 2 0 1 0 50 0 100 0 N
+P 3 0 1 0 -50 -100 0 -100 0 -25 N
+P 4 0 1 0 -50 100 0 100 0 75 0 50 N
+X ~ 1 -150 100 100 R 60 60 1 1 P
+X ~ 2 200 0 100 L 60 60 1 1 P
+X ~ 3 -150 -100 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
 # LFcapitors_CAPITORS
 #
 DEF LFcapitors_CAPITORS C 0 40 N Y 1 F N
