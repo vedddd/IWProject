@@ -78,6 +78,33 @@ X OUT2 7 1150 -100 300 L 60 60 2 0 I
 ENDDRAW
 ENDDEF
 #
+# LFconnectors_connector_3pin_gost
+#
+DEF LFconnectors_connector_3pin_gost X 0 40 N N 1 F N
+F0 "X" 275 300 71 H V L BNN
+F1 "LFconnectors_connector_3pin_gost" -50 200 71 H V L BNN
+F2 "" 350 150 50 H I C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 150 0 60 0 0 0 1 Normal 0 C C
+T 0 150 -100 60 0 0 0 2 Normal 0 C C
+T 0 150 -200 60 0 0 0 3 Normal 0 C C
+T 0 150 100 60 0 0 0 Конт. Normal 0 C C
+T 0 525 100 60 0 0 0 Цепь Normal 0 C C
+P 2 0 0 0 0 -250 0 150 N
+P 2 0 0 0 0 -250 750 -250 N
+P 2 0 0 0 0 -150 750 -150 N
+P 2 0 0 0 0 50 750 50 N
+P 2 0 0 0 300 -250 300 150 N
+P 2 0 0 0 750 -250 750 150 N
+P 2 0 0 0 750 -50 0 -50 N
+P 2 0 1 0 0 150 750 150 N
+X ~ 1 0 0 0 R 61 61 1 1 P
+X ~ 2 0 -100 0 R 61 61 1 1 P
+X ~ 3 0 -200 0 R 61 61 1 1 P
+ENDDRAW
+ENDDEF
+#
 # LFconnectors_connector_4pin_gost
 #
 DEF LFconnectors_connector_4pin_gost X 0 40 N N 1 F N
